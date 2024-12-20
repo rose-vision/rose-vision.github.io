@@ -1,4 +1,4 @@
-# Welcome to the RObust & SEcure Vision Lab (ROSE Vision Lab)
+# RObust & SEcure Vision Lab (ROSE Vision Lab)
 
 <p style="text-align:justify">
 We are a research group at Beihang University, China. We aim to explore and solve potential security problems in the field of artificial intelligence and computer science with the rapid development of computer technology in the new environment of the 21st century.
