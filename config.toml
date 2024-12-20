@@ -1,4 +1,4 @@
-baseURL = 'https://rose-vision.github.io/rose-vision-lab.github.io'
+baseURL = 'https://rose-vision.github.io'
 # 网站默认语言
 defaultContentLanguage = 'en'
 theme = 'LoveIt'
