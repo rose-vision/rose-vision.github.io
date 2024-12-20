@@ -29,45 +29,6 @@ theme = 'LoveIt'
         title = ""
         weight = 2
       [[languages.en.menu.main]]
-        identifier = "team"
-        pre = ""
-        post = ""
-        name = "Team"
-        url = "/team/"
-        title = ""
-        weight = 3
-      [[languages.en.menu.main]]
-        identifier = "research"
-        pre = ""
-        post = ""
-        name = "Research"
-        url = "/research/"
-        title = ""
-        weight = 4
-      [[languages.en.menu.main]]
-        identifier = "publications"
-        pre = ""
-        post = ""
-        name = "Publications"
-        url = "/publications/"
-        title = ""
-        weight = 5
-      [[languages.en.menu.main]]
-        identifier = "seminars"
-        pre = ""
-        name = "Seminars"
-        url = "/seminars/"
-        title = ""
-        weight = 6
-      [[languages.en.menu.main]]
-        identifier = "contact"
-        pre = ""
-        post = ""
-        name = "Contact"
-        url = "/contact/"
-        title = ""
-        weight = 7
-      [[languages.en.menu.main]]
         identifier = "github"
         pre = "<i class='fab fa-github fa-fw'></i>"
         post = ""
@@ -123,61 +84,22 @@ theme = 'LoveIt'
         title = ""
         weight = 2
       [[languages.zh-cn.menu.main]]
-        identifier = "team"
-        pre = ""
-        post = ""
-        name = "研究团队"
-        url = "/team/"
-        title = ""
-        weight = 3
-      [[languages.zh-cn.menu.main]]
-        identifier = "research"
-        pre = ""
-        post = ""
-        name = "研究方向"
-        url = "/research/"
-        title = ""
-        weight = 4
-      [[languages.zh-cn.menu.main]]
-        identifier = "publications"
-        pre = ""
-        post = ""
-        name = "学术论文"
-        url = "/publications/"
-        title = ""
-        weight = 5
-      [[languages.zh-cn.menu.main]]
-        identifier = "seminars"
-        pre = ""
-        name = "学术沙龙"
-        url = "/seminars/"
-        title = ""
-        weight = 6
-      [[languages.zh-cn.menu.main]]
-        identifier = "contact"
-        pre = ""
-        post = ""
-        name = "联系我们"
-        url = "/contact/"
-        title = ""
-        weight = 7
-      [[languages.zh-cn.menu.main]]
         identifier = "github"
         pre = "<i class='fab fa-github fa-fw'></i>"
         post = ""
         name = ""
-        url = "https://github.com/csl-cqu"
+        url = "https://github.com/rose-vision"
         title = "GitHub"
         weight = 8
     [languages.zh-cn.params]
       # 网站描述
       description = "北京航空航天大学ROSE视觉实验室官网"
       # 网站关键词
-      keywords = ["Cyber Security Laboratory", "CQU", "AI"]
+      keywords = ["RObust & SEcure Vision Lab", "CQU", "AI"]
       # 应用图标配置
       [languages.zh-cn.params.app]
         # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
-        title = "CSL@CQU"
+        title = "ROSE@BUAA"
         # 是否隐藏网站图标资源链接
         noFavicon = false
         # 更现代的 SVG 网站图标, 可替代旧的 .png 和 .ico 文件
