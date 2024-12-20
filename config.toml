@@ -1,4 +1,4 @@
-baseURL = 'https://rose-vision-lab.github.io/'
+baseURL = 'https://rose-vision.github.io/rose-vision-lab.github.io/'
 # 网站默认语言
 defaultContentLanguage = 'en'
 theme = 'LoveIt'
@@ -9,7 +9,7 @@ theme = 'LoveIt'
     languageCode = "en"
     languageName = "English"
     hasCJKLanguage = false
-    title = 'Robustness & security Vison Lab @ BUAA'
+    title = 'Robustness & Security Vison Lab @ BUAA'
     paginate = 12
     [languages.en.menu]
       [[languages.en.menu.main]]
@@ -72,12 +72,12 @@ theme = 'LoveIt'
         pre = "<i class='fab fa-github fa-fw'></i>"
         post = ""
         name = ""
-        url = "https://github.com/csl-cqu"
+        url = "https://github.com/rose-vision"
         title = "GitHub"
         weight = 8
     [languages.en.params]
       # site description
-      description = "The website of Cyber Security Laboratory @ CQU"
+      description = "The website of Robustness & Security Vison Laboratory @ BUUAA"
       # site keywords
       keywords = ["Cyber Security Laboratory", "CQU", "AI"]
       # App icon config
@@ -171,7 +171,7 @@ theme = 'LoveIt'
         weight = 8
     [languages.zh-cn.params]
       # 网站描述
-      description = "重庆大学网络安全实验室官网"
+      description = "北京航空航天大学ROSE视觉实验室官网"
       # 网站关键词
       keywords = ["Cyber Security Laboratory", "CQU", "AI"]
       # 应用图标配置
