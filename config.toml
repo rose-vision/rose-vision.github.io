@@ -79,7 +79,7 @@ theme = 'LoveIt'
       # 网站描述
       description = "北京航空航天大学ROSE视觉实验室官网"
       # 网站关键词
-      keywords = ["RObust & SEcure Vision Lab", "CQU", "AI"]
+      keywords = ["RObust & SEcure Vision Lab", "BUAA", "AI"]
       # 应用图标配置
       [languages.zh-cn.params.app]
         # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
@@ -129,7 +129,7 @@ theme = 'LoveIt'
       logo = ""
       # title name
       # 标题名称
-      name = "Cyber Security Laboratory @ CQU"
+      name = "ROSE Vision Lab @ BUAA"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
