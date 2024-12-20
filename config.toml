@@ -367,7 +367,7 @@ theme = 'LoveIt'
 # Author config
 # 作者配置
 [author]
-  name = "Cyber Security Laboratory, Chongqing University."
+  name = "ROSE Vision Laboratory, BUAA."
 
 
 # Options to make output .md files
