@@ -9,7 +9,7 @@ theme = 'LoveIt'
     languageCode = "en"
     languageName = "English"
     hasCJKLanguage = false
-    title = 'Robustness & Security Vison Lab @ BUAA'
+    title = 'RObust & SEcure Vision Lab @ BUAA'
     paginate = 12
     [languages.en.menu]
       [[languages.en.menu.main]]
@@ -77,9 +77,9 @@ theme = 'LoveIt'
         weight = 8
     [languages.en.params]
       # site description
-      description = "The website of Robustness & Security Vison Laboratory @ BUAA"
+      description = "The website of RObust & SEcure Vision Lab @ BUAA"
       # site keywords
-      keywords = ["Robustness & Security Vison Laboratory", "BUAA", "AI"]
+      keywords = ["RObust & SEcure Vision Lab", "BUAA", "AI"]
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
@@ -103,7 +103,7 @@ theme = 'LoveIt'
     languageCode = "zh-CN"
     languageName = "简体中文"
     hasCJKLanguage = true
-    title = 'Robustness & security Vison Lab @ BUAA'
+    title = 'RObust & SEcure Vision Lab'
     paginate = 12
     [languages.zh-cn.menu]
       [[languages.zh-cn.menu.main]]
