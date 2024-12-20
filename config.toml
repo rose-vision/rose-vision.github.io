@@ -21,14 +21,6 @@ theme = 'LoveIt'
         title = ""
         weight = 1
       [[languages.en.menu.main]]
-        identifier = "news"
-        pre = ""
-        post = ""
-        name = "News"
-        url = "/news/"
-        title = ""
-        weight = 2
-      [[languages.en.menu.main]]
         identifier = "github"
         pre = "<i class='fab fa-github fa-fw'></i>"
         post = ""
@@ -75,14 +67,6 @@ theme = 'LoveIt'
         url = "/"
         title = ""
         weight = 1
-      [[languages.zh-cn.menu.main]]
-        identifier = "news"
-        pre = ""
-        post = ""
-        name = "新闻"
-        url = "/news/"
-        title = ""
-        weight = 2
       [[languages.zh-cn.menu.main]]
         identifier = "github"
         pre = "<i class='fab fa-github fa-fw'></i>"
