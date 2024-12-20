@@ -1,4 +1,4 @@
-baseURL = 'https://csl-cqu.github.io/'
+baseURL = 'https://rose-vision-lab.github.io/'
 # 网站默认语言
 defaultContentLanguage = 'en'
 theme = 'LoveIt'
@@ -9,7 +9,7 @@ theme = 'LoveIt'
     languageCode = "en"
     languageName = "English"
     hasCJKLanguage = false
-    title = 'Cyber Security Laboratory @ CQU'
+    title = 'Robustness & security Vison Lab @ BUAA'
     paginate = 12
     [languages.en.menu]
       [[languages.en.menu.main]]
@@ -103,7 +103,7 @@ theme = 'LoveIt'
     languageCode = "zh-CN"
     languageName = "简体中文"
     hasCJKLanguage = true
-    title = '重庆大学网络安全实验室'
+    title = 'Robustness & security Vison Lab @ BUAA'
     paginate = 12
     [languages.zh-cn.menu]
       [[languages.zh-cn.menu.main]]
