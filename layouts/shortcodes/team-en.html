@@ -49,6 +49,7 @@
             <th>Works</th>
         </tr>
         {{ range .Site.Data.team_en }}
+        {{ if eq .position "Alumni" }}
         <tr>
             <td>{{.name}}</td>
             <td>{{.years}}</td>
