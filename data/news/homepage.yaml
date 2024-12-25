@@ -1,5 +1,9 @@
 # 英文主页展示的新闻
 en:
+  - title: Two students from our team have been awarded the highest honor for students (the Shen Yuan Medal) at Beihang University! Congrats to Shiji and Yao Huang!
+    date: 2024-12
+    icon: 🎉
+
   - title: Two paper accepted by NeurIPS (<b>CCF A</b>)! Congrats!
     date: 2024-9
     icon: 🎉
@@ -9,13 +13,4 @@ en:
     icon: 🎉
 
 
-
-# 中文主页展示的新闻
-zh:
-  - title: 两篇文章被NeurIPS接收(<b>CCF A</b>)! 恭喜!
-    date: 2024-9
-    icon: 🎉
-  - title: 两篇文章被TPAMI(<b>CCF A</b>)接收! 恭喜!
-    date: 2024-6
-    icon: 🎉
 
