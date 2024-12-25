@@ -38,6 +38,10 @@
   publication: IEEE Transactions on Multimedia (TMM)
   ccf_rank: B
 
+- title: "Improving RGB-Infrared Object Detection with Cascade Alignment-guided Transformer"
+  authors: Maoxun Yuan,  Xiaorong Shi, Nan Wang, Yinyan Wang, Xingxing Wei*
+  publication: Information Fusion
+
 - title: "Adversarial Pan-sharpening Attacks for Object Detection in Remote Sensing"
   authors: Xingxing Wei*, Maoxun Yuan
   publication: Pattern Recognition (PR)
