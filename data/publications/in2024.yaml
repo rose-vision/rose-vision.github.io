@@ -36,7 +36,7 @@
 - title: "Benchmarking Trustworthiness of Multimodal Large Language Models: A Comprehensive Study"
   authors: Yichi Zhang, Yao Huang, Yitong Sun, Chang Liu, Zhe Zhao, Zhengwei Fang, Yifan Wang, Huanran Chen, Xiao Yang, Xingxing Wei, Hang Su, Yinpeng Dong, Jun Zhu
   publication: NeurIPS2024
-  cqu_rank: A
+  ccf_rank: A
 
 - title: "Omniview-Tuning: Boosting Viewpoint Invariance of Vision-Language Pre-training models"
   authors: Shouwei Ruan, Yinpeng Dong, Hanqing Liu, Yao Huang, Hang Su, Xingxing Wei*
