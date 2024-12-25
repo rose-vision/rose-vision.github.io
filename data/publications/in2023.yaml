@@ -1,1 +1,49 @@
+- title: "Efficient Robustness Assessement via Adversarial Spatial-Temporal Focus on Videos"
+  authors: Xingxing Wei*, Songping Wang, Huanqian Yan
+  publication: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+  ccf_rank: A
 
+- title: "Unified Adversarial Patch for Visible-Infrared Cross-modal Attacks in the Physical World"
+  authors: Xingxing Wei*,  Yao Huang, Yitong Sun, Jie Yu
+  publication: EEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+  ccf_rank: A
+
+- title: "Infrared Adversarial Patches with Learnable Shapes and Locations in the Physical World"
+  authors: Xingxing Wei*, Jie Yu, Yao Huang
+  publication: International Journal of Computer Vision (IJCV)
+  ccf_rank: A
+
+- title: "Physically Adversarial Infrared Patches with Learanble Shapes and Locations"
+  authors: Xingxing Wei*, Jie Yu, Yao Huang
+  publication: Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR2023)
+  ccf_rank: A
+
+- title: "Unified Adversarial Patch for Cross-modal Attacks in the Physical World"
+  authors: Xingxing Wei*,  Yao Huang, Yitong Sun, Jie Yu
+  publication: Proc. of the IEEE International Conference on Computer Vision (ICCV2023)
+  ccf_rank: A
+
+- title: "Towards Viewpoint-Invariant Visual Recognition via Adversarial Training"
+  authors: Shouwei Ruan, Yinpeng Dong, Hang Su, Jiateng Pang, Ning Chen, Xingxing Wei*,
+  publication: Proc. of the IEEE International Conference on Computer Vision (ICCV2023)
+  ccf_rank: A
+
+- title: "Benchmarking Robustness of 3D Object Detection to Common Corruption in Automatic Driving"
+  authors: Yinpeng Dong, Caixin Kang, Jinlai Zhang, Zijian Zhu, Yikai Wang, Xiao Yang, Hang Su, Xingxing Wei, Jun Zhu
+  publication: Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR2023)
+  ccf_rank: A
+
+- title: "Boosting Adversarial Transferability with Learnable Patch-wise Masks"
+  authors: Xingxing Wei*, Shiji Zhao
+  publication: IEEE Transactions on Multimedia (TMM)
+  ccf_rank: B
+
+- title: "Adversarial Pan-sharpening Attacks for Object Detection in Remote Sensing"
+  authors: Xingxing Wei*, Maoxun Yuan
+  publication: Pattern Recognition (PR)
+
+
+
+
+
+  
