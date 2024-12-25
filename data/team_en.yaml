@@ -30,6 +30,11 @@
   position: member
 
 
+- name: Huanqian Yan
+  degree: PH.D.
+  years: 2019-2023
+  works: Qiyuan Lab
+  position: alumni
 
 - name: Caixing Kang
   degree: Master
@@ -53,4 +58,10 @@
   degree: Master
   years: 2021-2023
   works: Xiaohongshu
+  position: alumni
+
+- name: Guoqiu Wang
+  degree: Master
+  years: 2020-2022
+  works: Baidu
   position: alumni
