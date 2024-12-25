@@ -39,8 +39,9 @@
   ccf_rank: A
 
 - title: "Omniview-Tuning: Boosting Viewpoint Invariance of Vision-Language Pre-training models"
+  highlight: Oral
   authors: Shouwei Ruan, Yinpeng Dong, Hanqing Liu, Yao Huang, Hang Su, Xingxing Wei*
-  publication: European Conference on Computer Vision 2024 (ECCV2024, Oral)
+  publication: European Conference on Computer Vision 2024 (ECCV2024)
   ccf_rank: B
 
 - title: "DIFFender: Diffusion-Based Adversarial Defense against Patch Attacks" 
