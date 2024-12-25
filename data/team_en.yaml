@@ -3,6 +3,7 @@
   info: Professor
   email: xxwei@buaa.edu.cn
   biography: Xingxing Wei received his Ph.D degree in computer science from Tianjin University, and B.S.degree in Automation from Beihang University (BUAA), China. He is now an Associate Professor at Beihang University (BUAA). His research interests include computer vision, adversarial machine learning and its applications to multimedia content analysis. He is the author of referred journals and conferences in IEEE TPAMI, TMM, TCYB, TGRS, IJCV, PR, CVIU, CVPR, ICCV, ECCV, ACMMM, AAAI, IJCAI etc.
+  page: https://sites.google.com/site/xingxingwei1988/
   position: director
 
 - name: Shiji Zhao
@@ -10,6 +11,7 @@
   info: PH.D. Student
   email: zhaoshiji123@buaa.edu.cn
   biography: Shiji Zhao received his B.S. degree in the School of Computer Science and Engineering, Beihang University (BUAA), China. He is now a Ph.D student in the Institute of Artificial Intelligence, Beihang University (BUAA), China. His research interests include computer vision, deep learning, adversarial robustness in machine learning, MLLMs security.
+  page: https://zhaoshiji123.github.io/
   position: member
 
 - name: Shouwei Ruan
@@ -17,6 +19,7 @@
   info: PH.D. Student
   email: shouweiruan@buaa.edu.cn
   biography: Shouwei Ruan received his B.S. degree in XIDIAN University, China. He is now a Ph.D student in the Institute of Artificial Intelligence, Beihang University (BUAA), China. His research interests include computer vision, deep learning and adversarial robustness in machine learning, Embodied AI.
+  page: https://heathcliff-saku.github.io/
   position: member
 
 - name: Yao Huang
