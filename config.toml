@@ -59,60 +59,6 @@ theme = 'LoveIt'
       [languages.en.params.search]
         enable = false
 
-  [languages.zh-cn]
-    weight = 2
-    languageCode = "zh-CN"
-    languageName = "简体中文"
-    hasCJKLanguage = true
-    title = 'RObust & SEcure Vision Lab'
-    paginate = 12
-    [languages.zh-cn.menu]
-      [[languages.zh-cn.menu.main]]
-        identifier = "home"
-        pre = ""
-        post = ""
-        name = "首页"
-        url = "/"
-        title = ""
-        weight = 1
-      [[languages.zh-cn.menu.main]]
-        identifier = "publications"
-        pre = ""
-        post = ""
-        name = "Publications"
-        url = "/publications/"
-        title = ""
-        weight = 5
-      [[languages.zh-cn.menu.main]]
-        identifier = "github"
-        pre = "<i class='fab fa-github fa-fw'></i>"
-        post = ""
-        name = ""
-        url = "https://github.com/rose-vision"
-        title = "GitHub"
-        weight = 8
-    [languages.zh-cn.params]
-      # 网站描述
-      description = "北京航空航天大学ROSE视觉实验室官网"
-      # 网站关键词
-      keywords = ["RObust & SEcure Vision Lab", "BUAA", "AI"]
-      # 应用图标配置
-      [languages.zh-cn.params.app]
-        # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
-        title = "ROSE@BUAA"
-        # 是否隐藏网站图标资源链接
-        noFavicon = false
-        # 更现代的 SVG 网站图标, 可替代旧的 .png 和 .ico 文件
-        svgFavicon = "/favicon.svg"
-        # Android 浏览器主题色
-        themeColor = "#ffffff"
-        # Safari 图标颜色
-        iconColor = "#5bbad5"
-        # Windows v8-10 磁贴颜色
-        tileColor = "#da532c"
-      # 搜索配置
-      [languages.zh-cn.params.search]
-        enable = false
 
 [params]
   # LoveIt theme version
