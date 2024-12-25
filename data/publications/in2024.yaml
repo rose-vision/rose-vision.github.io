@@ -1,49 +1,49 @@
-- title: Revisiting the Trade-off between Accuracy and Robustness via Filters’ Weight Distribution
+- title: "Revisiting the Trade-off between Accuracy and Robustness via Filters’ Weight Distribution"
   authors: Xingxing Wei, Shiji Zhao, Bo Li*
   publication: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   ccf_rank: A
 
-- title: Distributional Location-aware Adversarial Patch for Facial Images
+- title: "Distributional Location-aware Adversarial Patch for Facial Images"
   authors: Xingxing Wei, Shouwei Ruan, Yinpeng Dong, Hang Su, Xiaochun Cao*
   publication: EEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   ccf_rank: A
 
-- title: Mitigating Accuracy-Robustness Trade-off via Balanced Multi-Teacher Adversarial Distillation
+- title: "Mitigating Accuracy-Robustness Trade-off via Balanced Multi-Teacher Adversarial Distillation"
   authors: Shiji Zhao, Xizhe Wang, Xingxing Wei*
   publication: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   ccf_rank: A
 
-- title: Improving Fast Adversarial Training with Prior-Guided Knowledge
+- title: "Improving Fast Adversarial Training with Prior-Guided Knowledge"
   authors: Xiaojun Jia, Yong Zhang, Xingxing Wei, Baoyuan Wu, Ke Ma, Jue Wang, Xiaochun Cao
   publication: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   ccf_rank: A
 
-- title: Towards Transferable Targeted 3D Adversarial Attack in the Physical World
+- title: "Towards Transferable Targeted 3D Adversarial Attack in the Physical World"
   authors: Yao Huang, Yinpeng Dong, Shouwei Ruan, Xiao Yang, Hang Su, Xingxing Wei*
   publication: Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR2024)
   ccf_rank: A
 
-- title: Embodied Laser Attack: Leveraging Scene Priors to Achieve Agent-based Robust Non-contact Attacks
+- title: "Embodied Laser Attack: Leveraging Scene Priors to Achieve Agent-based Robust Non-contact Attacks"
   authors: Yitong Sun,Yao Huang, Xingxing Wei*
   publication: ACM International Conference on Multimedia (ACMMM2024)
   ccf_rank: A
 
-- title: Improving Adversarial Robust Fairness via Anti-bias Soft Label Distillation
+- title: "Improving Adversarial Robust Fairness via Anti-bias Soft Label Distillation"
   authors: Shiji Zhao,  Ranjie Duan, Xizhe Wang, Xingxing Wei*
   publication: NeurIPS2024
   ccf_rank: A
 
-- title: Benchmarking Trustworthiness of Multimodal Large Language Models: A Comprehensive Study
+- title: "Benchmarking Trustworthiness of Multimodal Large Language Models: A Comprehensive Study"
   authors: Yichi Zhang, Yao Huang, Yitong Sun, Chang Liu, Zhe Zhao, Zhengwei Fang, Yifan Wang, Huanran Chen, Xiao Yang, Xingxing Wei, Hang Su, Yinpeng Dong, Jun Zhu
   publication: NeurIPS2024
   cqu_rank: A
 
-- title: Omniview-Tuning: Boosting Viewpoint Invariance of Vision-Language Pre-training models
+- title: "Omniview-Tuning: Boosting Viewpoint Invariance of Vision-Language Pre-training models"
   authors: Shouwei Ruan, Yinpeng Dong, Hanqing Liu, Yao Huang, Hang Su, Xingxing Wei*
   publication: European Conference on Computer Vision 2024 (ECCV2024, Oral)
   ccf_rank: B
 
-- title: DIFFender: Diffusion-Based Adversarial Defense against Patch Attacks 
+- title: "DIFFender: Diffusion-Based Adversarial Defense against Patch Attacks" 
   authors: Caixin Kang, Yinpeng Dong, Zhengyi Wang, Shouwei Ruan, Yubo Chen, Hang Su, Xingxing Wei*
   publication: European Conference on Computer Vision 2024 (ECCV2024)
   ccf_rank: B
