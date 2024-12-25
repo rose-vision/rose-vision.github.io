@@ -48,6 +48,14 @@
   publication: European Conference on Computer Vision 2024 (ECCV2024)
   ccf_rank: B
 
+- title: "C2Former: Calibrated and Complementary Transformer for  RGB-Infrared Object Detection"
+  authors: Maoxun Yuan,  Xingxing Wei*
+  publication: IEEE Transactions on Geoscience and Remote Sensing (TGRS)
+  ccf_rank: B
 
+- title: "Classification Committee for Active Deep Object Detection"
+  authors: Lei Zhao, Bo Li, Jixiang Jiang, Xingxing Wei*
+  publication: IEEE Transactions on Multimedia (TMM)
+  ccf_rank: B
 
 
