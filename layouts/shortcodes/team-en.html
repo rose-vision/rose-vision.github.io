@@ -45,6 +45,7 @@
     <table>
         <tr>
             <th>Name</th>
+            <th>Degree</th>
             <th>Years</th>
             <th>Works</th>
         </tr>
@@ -52,6 +53,7 @@
         {{ if eq .position "alumni" }}
         <tr>
             <td>{{.name}}</td>
+            <td>{{.degree}}</td>
             <td>{{.years}}</td>
             <td>{{.works}}</td>
         </tr>
