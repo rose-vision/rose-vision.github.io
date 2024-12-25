@@ -1,6 +1,6 @@
 # 英文主页展示的新闻
 en:
-  - title: Two students from our team have been awarded the highest honor for students (the Shen Yuan Medal) at Beihang University! Congrats to Shiji and Yao Huang!
+  - title: Two students from our team have been awarded the highest honor for students (<b>the Shen Yuan Medal</b>) at Beihang University! Congrats to <b>Shiji Zhao</b> and <b>Yao Huang</b>!
     date: 2024-12
     icon: 🎉
 
@@ -8,7 +8,7 @@ en:
     date: 2024-9
     icon: 🎉
     
-  - title: Two paper accepted by TPAMI (<b>CCF A</b>)! Congrats to Shiji!
+  - title: Two paper accepted by TPAMI (<b>CCF A</b>)! Congrats to <b>Shiji Zhao</b>!
     date: 2024-6
     icon: 🎉
 
