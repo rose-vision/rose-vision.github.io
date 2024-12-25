@@ -23,6 +23,30 @@
         {{ end }}
     </ul>
 
+    <h2 id="2023">2023</h2>
+    <ul>
+        {{ range .Site.Data.publications.in2023 }}
+            <li>
+                <p><b><a href="{{ .link }}">{{ .title }}
+                    {{ if .highlight }}
+                    <span style="color: red;">
+                        ({{ .highlight }})
+                    </span>
+                    {{ end }}
+                </a></b></p>
+                <p>{{.authors}}</p>
+                <p><i>{{.publication}}</i>
+                    {{ if .ccf_rank }}
+                    , <b>CCF Rank {{.ccf_rank}}</b>
+                    {{ end }}
+                    {{ if .cqu_rank }}
+                    , <b>CSL@CQU Rank {{.cqu_rank}}</b>
+                    {{ end }}
+                </p>
+            </li>
+        {{ end }}
+    </ul>
+    
     <h2 id="2022">2022</h2>
     <ul>
         {{ range .Site.Data.publications.in2022 }}
