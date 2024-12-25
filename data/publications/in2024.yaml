@@ -1,79 +1,53 @@
-- title: An underwater image quality assessment metric
-  authors: Pengfei Guo, Hantao Liu, Delu Zeng, Tao Xiang, Leida Li, Ke Gu
-  publication: IEEE Transactions on Multimedia
-  ccf_rank: B
-
-- title: Byzantine-resilient Decentralized Stochastic Gradient Descent
-  authors: Shangwei Guo, Tianwei Zhang, Han Yu,  Xiaofei Xie, Lei Ma, Tao Xiang, Yang Liu
-  publication: IEEE Transactions on Circuits and Systems for Video Technology
-  ccf_rank: B
-
-- title: "Machine Learning-based Spoofing Attack Detection in MmWave 60GHz IEEE 802.11ad Networks"
-  authors: Ning Wang, Long Jiao, Pu Wang, Weiwei Li, Kai Zeng
-  publication: IEEE Conference on Computer Communications (INFOCOM)
+- title: Revisiting the Trade-off between Accuracy and Robustness via Filters’ Weight Distribution
+  authors: Xingxing Wei, Shiji Zhao, Bo Li*
+  publication: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   ccf_rank: A
 
-- title: "Self-Supervised Pre-training on the Target Domain for Cross-Domain Person Re-identification"
-  authors: Junyin Zhang, Yongxin Ge, Xinqian Gu, Boyu Hua, Tao Xiang
-  publication: ACM International Conference on Multimedia (ACM MM)
+- title: Distributional Location-aware Adversarial Patch for Facial Images
+  authors: Xingxing Wei, Shouwei Ruan, Yinpeng Dong, Hang Su, Xiaochun Cao*
+  publication: EEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   ccf_rank: A
 
-- title: "Self-Supervised Pre-training on the Target Domain for Cross-Domain Person Re-identification"
-  authors: Junyin Zhang, Yongxin Ge, Xinqian Gu, Boyu Hua, Tao Xiang
-  publication: ACM International Conference on Multimedia (ACM MM)
+- title: Mitigating Accuracy-Robustness Trade-off via Balanced Multi-Teacher Adversarial Distillation
+  authors: Shiji Zhao, Xizhe Wang, Xingxing Wei*
+  publication: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   ccf_rank: A
 
-- title: "ESB-FL: Efficient and Secure Blockchain-Based Federated Learning with Fair Payment"
-  authors: Biwen Chen, Honghong Zeng, Tao Xiang, Shangwei Guo, Tianwei Zhang, Yang Liu
-  publication: IEEE Transactions on Big Data
+- title: Improving Fast Adversarial Training with Prior-Guided Knowledge
+  authors: Xiaojun Jia, Yong Zhang, Xingxing Wei, Baoyuan Wu, Ke Ma, Jue Wang, Xiaochun Cao
+  publication: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+  ccf_rank: A
 
-- title: "An End-to-End No-Reference Video Quality Assessment Method With Hierarchical Spatiotemporal Feature Representation"
-  authors: Wenhao Shen, Mingliang Zhou, Xingran Liao, Weijia Jia, Tao Xiang, Bin Fang, Zhaowei Shang
-  publication: IEEE Transactions on Broadcasting
+- title: Towards Transferable Targeted 3D Adversarial Attack in the Physical World
+  authors: Yao Huang, Yinpeng Dong, Shouwei Ruan, Xiao Yang, Hang Su, Xingxing Wei*
+  publication: Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR2024)
+  ccf_rank: A
 
-- title: "C-Wall: Conflict-Resistance in Privacy-Preserving Cloud Storage"
-  authors: Xiaoguo Li, Tao Xiang, Yi Mu, Fuchun Guo, Zhongyuan Yao
-  publication: IEEE Transactions on Cloud Computing
+- title: Embodied Laser Attack: Leveraging Scene Priors to Achieve Agent-based Robust Non-contact Attacks
+  authors: Yitong Sun,Yao Huang, Xingxing Wei*
+  publication: ACM International Conference on Multimedia (ACMMM2024)
+  ccf_rank: A
 
-- title: "BMIF: Privacy-Preserving Blockchain-Based Medical Image Fusion"
-  authors: Tao Xiang, Honghong Zeng, Biwen Chen, Shangwei Guo
-  publication: ACM Transactions on Multimedia Computing Communications and Applications
+- title: Improving Adversarial Robust Fairness via Anti-bias Soft Label Distillation
+  authors: Shiji Zhao,  Ranjie Duan, Xizhe Wang, Xingxing Wei*
+  publication: NeurIPS2024
+  ccf_rank: A
+
+- title: Benchmarking Trustworthiness of Multimodal Large Language Models: A Comprehensive Study
+  authors: Yichi Zhang, Yao Huang, Yitong Sun, Chang Liu, Zhe Zhao, Zhengwei Fang, Yifan Wang, Huanran Chen, Xiao Yang, Xingxing Wei, Hang Su, Yinpeng Dong, Jun Zhu
+  publication: NeurIPS2024
+  cqu_rank: A
+
+- title: Omniview-Tuning: Boosting Viewpoint Invariance of Vision-Language Pre-training models
+  authors: Shouwei Ruan, Yinpeng Dong, Hanqing Liu, Yao Huang, Hang Su, Xingxing Wei*
+  publication: European Conference on Computer Vision 2024 (ECCV2024, Oral)
   ccf_rank: B
 
-- title: Triggerless Backdoor Attack for NLP Tasks with Clean Labels
-  authors: Leilei Gan, Jiwei Li, Tianwei Zhang, Xiaoya Li, Yuxian Meng, Fei Wu, Yi Yang, Shangwei Guo, Chun Fan
-  publication: North American Chapter of the Association for Computational Linguistics (NAACL)
-  link: https://arxiv.org/abs/2112.10183
-  cqu_rank: A
-
-- title: "NASPY: Automated Extraction of Automated Machine Learning Models"
-  highlight: Spotlight
-  authors: Xiaoxuan Lou, Shangwei Guo, Jiwei Li, Yaoxin Wu, Tianwei Zhang
-  publication: International Conference on Learning Representations (ICLR)
-  link: https://openreview.net/forum?id=KhLK0sHMgXK
-  cqu_rank: A+
-
-- title: "BadPre: Task-agnostic Backdoor Attacks to Pre-trained NLP Foundation Models"
-  authors: Kangjie Chen, Yuxian Meng, Xiaofei Sun, Shangwei Guo, Tianwei Zhang, Jiwei Li, Chun Fan
-  publication: International Conference on Learning Representations (ICLR)
-  link: https://arxiv.org/abs/2110.02467
-  cqu_rank: A
-
-- title: "Practical Privacy-Preserving Federated Learning in Vehicular Fog Computing"
-  authors: Yiran Li, Hongwei Li, Guowen Xu, Tao Xiang, Rongxing Lu
-  publication: IEEE Transactions on Vehicular Technology
-
-- title: "Optimum Quality Control Algorithm for Versatile Video Coding"
-  authors: Mingliang Zhou, Xuekai Wei, Cheng Ji, Tao Xiang, Bin Fang
-  publication: IEEE Transactions on Broadcasting
-
-- title: "EGM: An Efficient Generative Model for Unrestricted Adversarial Examples"
-  authors: Tao Xiang, Hangcheng Liu, Shangwei Guo, Yan Gan, Xiaofeng Liao
-  publication: ACM Transactions on Sensor Networks
-  link: https://dl.acm.org/doi/abs/10.1145/3511893
+- title: DIFFender: Diffusion-Based Adversarial Defense against Patch Attacks 
+  authors: Caixin Kang, Yinpeng Dong, Zhengyi Wang, Shouwei Ruan, Yubo Chen, Hang Su, Xingxing Wei*
+  publication: European Conference on Computer Vision 2024 (ECCV2024)
   ccf_rank: B
 
-- title: " Hunter: HE-friendly Structured Pruning for Efficient Privacy-preserving Deep Learning"
-  authors: Yifei Cai, Qiao Zhang, Rui Ning, Chunsheng Xin, Hongyi Wu
-  publication: ACM ASIA Conference on Computer and Communications Security (ASIACCS)
-  cqu_rank: A
+
+
+
