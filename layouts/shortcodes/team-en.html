@@ -41,7 +41,24 @@
     {{ end }}
     {{ end }}
 
+    <h2 id="student">Student</h2>
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Years</th>
+            <th>Works</th>
+        </tr>
+        {{ range .Site.Data.team_en }}
+        <tr>
+            <td>{{.name}}</td>
+            <td>{{.years}}</td>
+            <td>{{.works}}</td>
+        </tr>
+        {{ end }}
+        {{ end }}
+    </table>
 
+    
 </div>
 
 <style>
