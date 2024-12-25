@@ -1,24 +1,27 @@
 - name: Xingxing Wei
   photo: xingxingwei.jpg
-  info: Professor, IEEE Fellow
+  info: Professor
   email: xxwei [at] buaa [dot] edu [dot] cn
   biography: Xingxing Wei received his Ph.D degree in computer science from Tianjin University, and B.S.degree in Automation from Beihang University (BUAA), China. He is now an Associate Professor at Beihang University (BUAA). His research interests include computer vision, adversarial machine learning and its applications to multimedia content analysis. He is the author of referred journals and conferences in IEEE TPAMI, TMM, TCYB, TGRS, IJCV, PR, CVIU, CVPR, ICCV, ECCV, ACMMM, AAAI, IJCAI etc.
   position: director
 
 - name: Shiji Zhao
   photo: shijizhao.jpg
+  info: PH.D. Student
   email: zhaoshiji123 [at] buaa [dot] edu [dot] cn
   biography: Shiji Zhao received his B.S. degree in the School of Computer Science and Engineering, Beihang University (BUAA), China. He is now a Ph.D student in the Institute of Artificial Intelligence, Beihang University (BUAA), China. His research interests include computer vision, deep learning, adversarial robustness in machine learning, MLLMs security.
-  position: Ph.D. Student
+  position: member
 
 - name: Shouwei Ruan
   photo: shouweiruan.jpg
+  info: PH.D. Student
   email: shouweiruan [at] buaa [dot] edu [dot] cn
   biography: Shouwei Ruan received his B.S. degree in XIDIAN University, China. He is now a Ph.D student in the Institute of Artificial Intelligence, Beihang University (BUAA), China. His research interests include computer vision, deep learning and adversarial robustness in machine learning, Embodied AI.
-  position: Ph.D. Student
+  position: member
 
 - name: Yao Huang
   photo: yaohuang.jpg
+  info: M.S. Student
   email: y_huang [at] buaa [dot] edu [dot] cn
   biography: Yao Huang received his B.S. degree in the Institute of Artificial Intelligence, Beihang University (BUAA), China. He is now a M.S. student in the Institute of Artificial Intelligence, Beihang University (BUAA), China. His research interests include computer vision, deep learning and adversarial robustness in machine learning, Embodied AI.
-  position: M.S. Student
+  position: member
