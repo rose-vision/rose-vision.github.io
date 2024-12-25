@@ -18,6 +18,4 @@ We are at BUAA.
 
 {{< homepage-news-en >}}
 
-# Quick Links
 
-{{< quick-link-en >}}
