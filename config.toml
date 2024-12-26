@@ -27,7 +27,15 @@ theme = 'LoveIt'
         name = "Team"
         url = "/team/"
         title = ""
-        weight = 3        
+        weight = 3      
+      [[languages.en.menu.main]]
+        identifier = "research"
+        pre = ""
+        post = ""
+        name = "Research"
+        url = "/research/"
+        title = ""
+        weight = 4        
       [[languages.en.menu.main]]
         identifier = "publications"
         pre = ""
