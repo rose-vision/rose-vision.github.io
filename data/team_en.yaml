@@ -8,7 +8,7 @@
 
 - name: Shiji Zhao
   photo: shijizhao.jpg
-  info: PH.D Student
+  info: Ph.D. Student
   email: zhaoshiji123@buaa.edu.cn
   biography: Computer vision, deep learning, adversarial robustness, MLLMs safety.
   page: https://zhaoshiji123.github.io/
@@ -16,7 +16,7 @@
 
 - name: Shouwei Ruan
   photo: shouweiruan.jpg
-  info: PH.D Student
+  info: Ph.D. Student
   email: shouweiruan@buaa.edu.cn
   biography: Computer vision, deep learning and adversarial attack, Embodied AI.
   page: https://heathcliff-saku.github.io/
@@ -31,7 +31,7 @@
 
 
 - name: Huanqian Yan
-  degree: PH.D
+  degree: Ph.D.
   years: 2018-2022
   works: Qiyuan Lab
   position: alumni
