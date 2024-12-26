@@ -25,7 +25,7 @@
   photo: shijizhao.jpg
   info: Ph.D. Student
   email: zhaoshiji123@buaa.edu.cn
-  biography: Computer vision, deep learning, adversarial robustness, MLLMs safety.
+  biography: Computer vision, Remote Sensing, adversarial robustness, MLLMs safety.
   page: https://zhaoshiji123.github.io/
   position: member
 
@@ -65,6 +65,21 @@
   biography: Computer vision, deep learning and adversarial attack, Embodied AI, MLLMs safety.
   position: member
 
+- name: Shuyang Yao
+  photo: shuyangyao.jpg
+  info: M.S. Student
+  email: yaoshuyang@buaa.edu.cn
+  biography: Computer vision, deep learning, Remote Sensing.
+  position: member
+
+
+- name: Ziteng Xi
+  photo: zitengxi.jpg
+  info: M.S. Student
+  email: zy2342131@buaa.edu.cn
+  biography: Computer vision, deep learning, Remote Sensing.
+  position: member
+
 - name: Yitong Sun
   photo: yitongsun.jpg
   info: M.S. Student
@@ -72,10 +87,10 @@
   biography: Computer vision, deep learning and adversarial attack, Embodied AI, MLLMs safety.
   position: member
 
-- name: Shuyang Yao
-  photo: shuyangyao.jpg
+- name: Duanni Meng
+  photo: duannimeng.jpg
   info: M.S. Student
-  email: yaoshuyang@buaa.edu.cn
+  email: MengDuanni@buaa.edu.cn
   biography: Computer vision, deep learning, Remote Sensing.
   position: member
 
