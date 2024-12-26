@@ -6,6 +6,21 @@
   page: https://sites.google.com/site/xingxingwei1988/
   position: director
 
+- name: Maoxun Yuan
+  photo: maoxunyuan.jpg
+  info: Postdoctoral
+  email: yuanmaoxun@buaa.edu.cn
+  biography: Multimodal Perception, Multisource Data Fusion and Remote Sensing.
+  page: https://yuanmaoxun.github.io/
+  position: member
+
+- name: Hong Zhang
+  photo: hongzhang.jpg
+  info: Ph.D. Student
+  email: zhanghong@buaa.edu.cn
+  biography: Computer vision, Object Detection, Remote Sensing.
+  position: member
+
 - name: Shiji Zhao
   photo: shijizhao.jpg
   info: Ph.D. Student
@@ -22,6 +37,20 @@
   page: https://heathcliff-saku.github.io/
   position: member
 
+- name: Yuteng Liu
+  photo: yutengliu.jpg
+  info: Ph.D. Student
+  email: liuyuteng@buaa.edu.cn
+  biography: Computer vision, deep learning and adversarial attack, Embodied AI.
+  position: member
+
+- name: Yu Zhang
+  photo: yuzhang.jpg
+  info: Ph.D. Student
+  email: zy2000@buaa.edu.cn
+  biography: Computer vision, Object Detection, Remote Sensing.
+  position: member
+
 - name: Yao Huang
   photo: yaohuang.jpg
   info: M.S. Student
@@ -29,6 +58,12 @@
   biography: Computer vision, deep learning and adversarial attack, Embodied AI, MLLMs safety.
   position: member
 
+- name: Shuyang Yao
+  photo: shuyangyao.jpg
+  info: M.S. Student
+  email: yaoshuyang@buaa.edu.cn
+  biography: Computer vision, deep learning, Remote Sensing.
+  position: member
 
 - name: Huanqian Yan
   degree: Ph.D.
