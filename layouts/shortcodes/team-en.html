@@ -23,8 +23,10 @@
     {{ end }}
 
     <h2 id="member">Member</h2>
+    <h3 id="phd" style="margin-bottom: 0px;">Ph.D.</h3>
     {{ range .Site.Data.team_en }}
     {{ if eq .position "member" }}
+    {{ if eq .info "Ph.D. Student" }}
         <div class="team-member">
             <div class="team-member-photo">
                 <img src="/team/{{ .photo }}">
@@ -36,6 +38,7 @@
                 <i class="fas fa-info-circle fa-fw"></i>&nbsp;{{ .biography }}<br>
             </p>
         </div>
+    {{ end }}
     {{ end }}
     {{ end }}
 
