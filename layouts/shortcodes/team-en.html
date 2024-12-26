@@ -41,7 +41,26 @@
     {{ end }}
     {{ end }}
     {{ end }}
+    <h3 id="phd" style="margin-bottom: 0px;">M.S.</h3>
+    {{ range .Site.Data.team_en }}
+    {{ if eq .position "member" }}
+    {{ if eq .info "M.S. Student" }}
+        <div class="team-member">
+            <div class="team-member-photo">
+                <img src="/team/{{ .photo }}">
+            </div>
+            <h3 style="margin-bottom: 0px;"><a href="{{ .page }}">{{ .name }}</a></h3>
+            <p>
+                <i class="fas fa-user fa-fw"></i>&nbsp;{{ .info }}<br>
+                <i class="fas fa-envelope fa-fw"></i>&nbsp;{{.email}}<br>
+                <i class="fas fa-info-circle fa-fw"></i>&nbsp;{{ .biography }}<br>
+            </p>
+        </div>
+    {{ end }}
+    {{ end }}
+    {{ end }}
 
+    
     <h2 id="Alumni">Alumni</h2>
     <table>
         <tr>
