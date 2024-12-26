@@ -8,17 +8,17 @@
 
 - name: Shiji Zhao
   photo: shijizhao.jpg
-  info: PH.D. Student
+  info: PH.D Student
   email: zhaoshiji123@buaa.edu.cn
-  biography: His research interests include computer vision, deep learning, adversarial robustness in machine learning, MLLMs safety.
+  biography: Computer vision, deep learning, adversarial robustness in machine learning, MLLMs safety.
   page: https://zhaoshiji123.github.io/
   position: member
 
 - name: Shouwei Ruan
   photo: shouweiruan.jpg
-  info: PH.D. Student
+  info: PH.D Student
   email: shouweiruan@buaa.edu.cn
-  biography: His research interests include computer vision, deep learning and adversarial robustness in machine learning, Embodied AI.
+  biography: Computer vision, deep learning and adversarial attack, Embodied AI.
   page: https://heathcliff-saku.github.io/
   position: member
 
@@ -26,13 +26,13 @@
   photo: yaohuang.jpg
   info: M.S. Student
   email: y_huang@buaa.edu.cn
-  biography: His research interests include computer vision, deep learning and adversarial robustness in machine learning, Embodied AI.
+  biography: Computer vision, deep learning and adversarial attack, Embodied AI.
   position: member
 
 
 - name: Huanqian Yan
-  degree: PH.D.
-  years: 2019-2023
+  degree: PH.D
+  years: 2018-2022
   works: Qiyuan Lab
   position: alumni
 
