@@ -1,14 +1,22 @@
 # 英文主页展示的新闻
 en:
+  - title: One paper accepted by TMM (<b>CCF B</b>)! Congrats to <b>Lei Zhao</b>!
+    date: 2024-12
+    icon: 🎉
+
+  - title: One paper obtained Minor Revision by TPAMI (<b>CCF A</b>)! Congrats to <b>Shouwei Ruan</b>!
+    date: 2024-12
+    icon: 🎉
+
   - title: Two students from our team have been awarded the highest honor for students (<b>the Shen Yuan Medal</b>) at Beihang University! Congrats to <b>Shiji Zhao</b> and <b>Yao Huang</b>!
     date: 2024-12
     icon: 🎉
 
-  - title: Two paper accepted by NeurIPS (<b>CCF A</b>)! Congrats!
+  - title: Two papers accepted by NeurIPS (<b>CCF A</b>)! Congrats!
     date: 2024-9
     icon: 🎉
     
-  - title: Two paper accepted by TPAMI (<b>CCF A</b>)! Congrats to <b>Shiji Zhao</b>!
+  - title: Two papers accepted by TPAMI (<b>CCF A</b>)! Congrats to <b>Shiji Zhao</b>!
     date: 2024-6
     icon: 🎉
 
