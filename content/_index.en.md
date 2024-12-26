@@ -7,7 +7,7 @@ We are a research group at Beihang University (BUAA), China. We aim to explore a
 {{< slide >}}
 
 <p style="text-align:justify">
-Our team tries to ensure the security and privacy of AI. We also hope our works can be applied to solve the information security problems in several areas of life, which, in turn, promotes the development and progress of the society.
+Our team tries to ensure the robustness and security of AI. We also hope our works can be applied to solve the information security problems in several areas of life, which, in turn, promotes the development and progress of the society.
 </p>
 
 
