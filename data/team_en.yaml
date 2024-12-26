@@ -86,6 +86,13 @@
   biography: Computer vision, adversarial attack, Image Generation.
   position: member
 
+- name: Chi Chen
+  photo: chichen.jpg
+  info: M.S. Student
+  email: chenchi@buaa.edu.cn
+  biography: Computer vision,adversarial robustness, MLLMs safety.
+  position: member
+
 - name: Shuyang Yao
   photo: shuyangyao.jpg
   info: M.S. Student
