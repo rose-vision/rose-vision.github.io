@@ -14,13 +14,6 @@
   page: https://yuanmaoxun.github.io/
   position: member
 
-- name: Lei Zhao
-  photo: leizhao.jpg
-  info: Ph.D. Student
-  email: zhaolei@buaa.edu.cn
-  biography: Computer vision, Image Generation, Object Detection.
-  position: member
-
 - name: Hong Zhang
   photo: hongzhang.jpg
   info: Ph.D. Student
@@ -70,6 +63,13 @@
   info: Ph.D. Student
   email: zy2000@buaa.edu.cn
   biography: Computer vision, Object Detection, Remote Sensing.
+  position: member
+
+- name: Lei Zhao
+  photo: leizhao.jpg
+  info: Ph.D. Student
+  email: zhaolei@buaa.edu.cn
+  biography: Computer vision, Image Generation, Object Detection.
   position: member
 
 - name: Yao Huang
