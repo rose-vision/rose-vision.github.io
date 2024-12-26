@@ -15,7 +15,6 @@
   publication: 期刊或者会议名称
   link: 文档连接（没有则不要此项）
   ccf_rank: CCF分级（没有则不要此项）
-  cqu_rank: 实验室分级（没有则不要此项）
 ```
 
 值的注意的是如果需要增加一个年份，则需要在data目录中创建对应年份的publicationsxxxx.yaml文件，然后编辑`layouts/shortcodes/publications-en.html`以及`layouts/shortcodes/publications-zh.html`，添加对应内容即可，例如增加2023则在`<h2 id="2022">2022</h2>`上方添加如下内容
@@ -46,7 +45,7 @@
 ```
 
 ### 添加 Team Member
-在data目录中team_en.yaml以及team_zh.yaml添加个人信息即可，格式如下：
+在data目录中team_en.yaml添加个人信息即可，格式如下：
 ```yaml
 - name: 名字
   photo: 照片
@@ -70,8 +69,7 @@
 
 **注意**：每次添加新闻总应该添加在数据文件的最上方
 
-### 发布学术沙龙
-在content/seminars中创建一个新的文件夹，然后在其中添加index.en.md和index.zh-cn.md（可以只添加一个语言版本）具体格式参考content/seminars/basic-markdown-syntax。
+
 
 ### 维护首页
 #### 修改文字内容
@@ -80,12 +78,7 @@
 #### 修改轮播图
 首先将需要的图片放置在static/slide目录中，然后编辑data/slide.yaml指定想要轮播展示的图片的文件名，这里图片的个数不受限制。
 
-#### 修改Quick Links
-编辑data目录中quick_link_en.yaml和quick_link_zh.yaml即可，格式如下：
-```yaml
-- title: 超链接文本
-  link: 链接地址
-```
+
 
 ## 本地开发
 Step 1: 安装 Hugo，[参考文档](https://gohugo.io/getting-started/installing/)。
