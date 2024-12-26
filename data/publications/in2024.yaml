@@ -54,6 +54,11 @@
   publication: IEEE Transactions on Geoscience and Remote Sensing (TGRS)
   ccf_rank: B
 
+- title: "Diverse Visible-to-Thermal Image Translation via Controllable Temperature Encoding"
+  authors: Lei Zhao, Mengwei Li, Bo Li,  Xingxing Wei*
+  publication: IEEE Transactions on Multimedia (TMM)
+  ccf_rank: B
+
 - title: "Classification Committee for Active Deep Object Detection"
   authors: Lei Zhao, Bo Li, Jixiang Jiang, Xingxing Wei*
   publication: IEEE Transactions on Multimedia (TMM)
