@@ -6,7 +6,7 @@
 因为本网站采用[GitHub Action](https://github.com/features/actions)自动构建并发布，所以如果只是更新网站中的部分内容（例如修改团队成员信息、添加publication）则没有必要在本地配置开发环境，甚至没有必要将本仓库克隆到本地，而是简单的对data目录下的数据文件进行修改并提交即可。下面介绍一些常见维护场景的操作方法
 
 ### 添加 Publication
-编辑data目录中对应年份的文件publications文件，目前有2020-2022以及用与存放更早期数据的publications0000.yaml。记录的格式如下：
+编辑data目录中对应年份的文件publications文件，目前有2022-2024以及用与存放更早期数据的publications0000.yaml。记录的格式如下：
 
 ```yaml
 - title: "文章标题"
@@ -17,7 +17,7 @@
   ccf_rank: CCF分级（没有则不要此项）
 ```
 
-值的注意的是如果需要增加一个年份，则需要在data目录中创建对应年份的publicationsxxxx.yaml文件，然后编辑`layouts/shortcodes/publications-en.html`以及`layouts/shortcodes/publications-zh.html`，添加对应内容即可，例如增加2023则在`<h2 id="2022">2022</h2>`上方添加如下内容
+值的注意的是如果需要增加一个年份，则需要在data目录中创建对应年份的publicationsxxxx.yaml文件，然后编辑`layouts/shortcodes/publications-en.html`，添加对应内容即可，例如增加2023则在`<h2 id="2022">2022</h2>`上方添加如下内容
 ```html
 <h2 id="2023">2023</h2>
 <ul>
@@ -52,13 +52,13 @@
   info: 职称
   email: 邮箱
   biography: 个人简介
-  position: 身份，可选director、member、phd、master
-  interests: 研究兴趣，只有phd和master需要
+  page: 个人主页链接
+  position: 身份，可选director、member、Alumni
 ```
 其中照片文件应该放置在static/team目录中。
 
 ### 发布新闻
-在data目录中news_en.yaml以及news_zh.yaml中添加新闻即可，格式如下：
+在data目录中homepage.yaml中添加新闻即可，格式如下：
 ```yaml
 - title: 新闻标题（支持在其中使用html标签）
   date: 发布日期
