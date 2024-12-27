@@ -35,9 +35,6 @@
                 {{ if .ccf_rank }}
                 , <b>CCF Rank {{.ccf_rank}}</b>
                 {{ end }}
-                {{ if .cqu_rank }}
-                , <b>CSL@CQU Rank {{.cqu_rank}}</b>
-                {{ end }}
             </p>
         </li>
     {{ end }}
