@@ -23,10 +23,10 @@
     {{ end }}
 
     <h2 id="member">Member</h2>
-    <h3 id="phd" style="margin-bottom: 0px;">Postdoctoral</h3>
+    <h3 id="phd" style="margin-bottom: 0px;">Postdoctoral Fellow</h3>
     {{ range .Site.Data.team_en }}
     {{ if eq .position "member" }}
-    {{ if eq .info "Postdoctoral" }}
+    {{ if eq .info "Postdoctoral Fellow" }}
         <div class="team-member">
             <div class="team-member-photo">
                 <img src="/team/{{ .photo }}">
