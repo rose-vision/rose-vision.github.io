@@ -12,6 +12,11 @@
             </a>
             {{ else }}
             <h3 style="margin-bottom: 0px;"><a href="{{ .page }}">{{ .name }}</a></h3>
+            {{ if .page }}
+                <h3 style="margin-bottom: 0px;"><a href="{{ .page }}">{{ .name }}</a></h3>
+            {{ else }}
+                <h3 style="margin-bottom: 0px;">{{ .name }}</h3>
+            {{ end }}
             {{ end }}
             <p>
                 <i class="fas fa-user fa-fw"></i>&nbsp;{{ .info }}<br>
@@ -31,7 +36,11 @@
             <div class="team-member-photo">
                 <img src="/team/{{ .photo }}">
             </div>
-            <h3 style="margin-bottom: 0px;"><a href="{{ .page }}">{{ .name }}</a></h3>
+            {{ if .page }}
+                <h3 style="margin-bottom: 0px;"><a href="{{ .page }}">{{ .name }}</a></h3>
+            {{ else }}
+                <h3 style="margin-bottom: 0px;">{{ .name }}</h3>
+            {{ end }}
             <p>
                 <i class="fas fa-user fa-fw"></i>&nbsp;{{ .info }}<br>
                 <i class="fas fa-envelope fa-fw"></i>&nbsp;{{.email}}<br>
@@ -50,7 +59,11 @@
             <div class="team-member-photo">
                 <img src="/team/{{ .photo }}">
             </div>
-            <h3 style="margin-bottom: 0px;"><a href="{{ .page }}">{{ .name }}</a></h3>
+            {{ if .page }}
+                <h3 style="margin-bottom: 0px;"><a href="{{ .page }}">{{ .name }}</a></h3>
+            {{ else }}
+                <h3 style="margin-bottom: 0px;">{{ .name }}</h3>
+            {{ end }}            
             <p>
                 <i class="fas fa-user fa-fw"></i>&nbsp;{{ .info }}<br>
                 <i class="fas fa-envelope fa-fw"></i>&nbsp;{{.email}}<br>
@@ -68,7 +81,11 @@
             <div class="team-member-photo">
                 <img src="/team/{{ .photo }}">
             </div>
-            <h3 style="margin-bottom: 0px;"><a href="{{ .page }}">{{ .name }}</a></h3>
+            {{ if .page }}
+                <h3 style="margin-bottom: 0px;"><a href="{{ .page }}">{{ .name }}</a></h3>
+            {{ else }}
+                <h3 style="margin-bottom: 0px;">{{ .name }}</h3>
+            {{ end }}
             <p>
                 <i class="fas fa-user fa-fw"></i>&nbsp;{{ .info }}<br>
                 <i class="fas fa-envelope fa-fw"></i>&nbsp;{{.email}}<br>
