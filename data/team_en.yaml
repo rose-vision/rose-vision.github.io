@@ -167,6 +167,12 @@
   works: Xiaohongshu
   position: alumni
 
+- name: Wenjie Wang
+  degree: Master
+  years: 2021-2023
+  works: ByteDance
+  position: alumni
+
 - name: Guoqiu Wang
   degree: Master
   years: 2020-2022
@@ -183,6 +189,12 @@
   degree: Master
   years: 2020-2022
   works: Civil Servant
+  position: alumni
+
+- name: Yingyan Wang
+  degree: Master
+  years: 2020-2022
+  works: China Life Insurance (Group) Company
   position: alumni
 
 - name: Jiahao Chen
