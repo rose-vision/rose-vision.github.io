@@ -10,7 +10,7 @@ math:
 
 Our team is mainly committed to cutting-edge research in robustness and security for AI, including:  object detection robustness, and multimedia security. We have published many outstanding achievements in top-tier academic conferences and journals. The research group has sufficient funds and regularly organizes academic and outdoor activities. It not only provides the international leading scientific research environment, but also creates a good living atmosphere for students. 
 
-## Adversarial Robustness for Mitigating the Trade-off Problem
+## Mitigating the Trade-off Problem for Adversarial Robustness
 
 Deep neural networks (DNNs) can achieve excellent performance on various complex tasks. However, recent studies have found that deep neural networks face serious security risks, namely adversarial attacks. Adversarial attacks refer to adding subtle perturbations to input data that are imperceptible to humans, causing deep neural networks to produce wrong outputs. Current research often faces difficulties in the Trade-off between accuracy and adversarial robustness, as well as the Trade-off between overall robustness and worst robustness (fairness issues), which poses challenges for DNNs in practical applications. Therefore, finding effective methods to address those difficult trade-off phenomena, is an urgent and challenging issue in deep learning.
 
