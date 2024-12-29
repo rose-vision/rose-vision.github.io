@@ -35,7 +35,7 @@ This direction focuses on investigating the robustness and invariance of existin
 
 <style>
     .framework {
-        width: 750px;
+        width: 800px;
         height: auto;
         display: flex;
         /* border-radius: 50%; */
