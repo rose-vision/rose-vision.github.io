@@ -8,7 +8,7 @@ math:
   enable: true
 ---
 
-In this paper, we will introduce several representive works in our group.
+In this page, we will introduce several representive works in our group.
 
 ## Mitigating the Trade-off Problem between Nature Accuracy and Adversarial Robustness
 
