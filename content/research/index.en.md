@@ -10,7 +10,7 @@ math:
 
 In this page, we will introduce several representive works in our group.
 
-## Mitigating the Trade-off between Nature Accuracy and Adversarial Robustness
+## Trade-off between Nature Accuracy and Adversarial Robustness
 
 Deep neural networks (DNNs) can achieve excellent performance on various complex tasks. However, recent studies have found that deep neural networks face serious security risks, namely adversarial attacks. Adversarial attacks refer to adding subtle perturbations to input data that are imperceptible to humans, causing deep neural networks to produce wrong outputs. Current research often faces difficulties in the Trade-off between accuracy and adversarial robustness, as well as the Trade-off between overall robustness and worst robustness (fairness issues), which poses challenges for DNNs in practical applications. Therefore, finding effective methods to address those difficult trade-off phenomena, is an urgent and challenging issue in deep learning.
 
