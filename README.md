@@ -55,7 +55,7 @@
 其中照片文件应该放置在static/team目录中。
 
 ### 发布新闻
-在data目录中homepage.yaml中添加新闻即可，格式如下：
+在data/new目录中homepage.yaml中添加新闻即可，格式如下：
 ```yaml
 - title: 新闻标题（支持在其中使用html标签）
   date: 发布日期
