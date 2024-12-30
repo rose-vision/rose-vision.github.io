@@ -70,7 +70,7 @@
 
 ### 维护首页
 #### 修改文字内容
-直接编辑content/_index.en.md和content/_index.zh-cn.md文件即可。
+直接编辑content/_index.en.md文件即可。
 
 #### 修改轮播图
 首先将需要的图片放置在static/slide目录中，然后编辑data/slide.yaml指定想要轮播展示的图片的文件名，这里图片的个数不受限制。
