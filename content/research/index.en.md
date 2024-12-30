@@ -43,8 +43,8 @@ This direction focuses on investigating the robustness and invariance of existin
         justify-content: center;
         overflow: hidden;
         float: left;
-        margin-left: 60px;
-        margin-right: 60px;
+        margin-left: 80px;
+        margin-right: 80px;
         margin-bottom: 10px;
     }
 </style>
