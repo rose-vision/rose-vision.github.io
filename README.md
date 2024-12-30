@@ -75,7 +75,17 @@
 #### 修改轮播图
 首先将需要的图片放置在static/slide目录中，然后编辑data/slide.yaml指定想要轮播展示的图片的文件名，这里图片的个数不受限制。
 
+### 维护research
+#### 修改文字内容
+直接编辑content/research/index.en.md文件即可。
 
+#### 添加框图
+首先将需要的图片放置在content/research目录中，然后编辑content/research/index.en.md指定想要展示图片的文件名。
+```yaml
+<div class="framework">
+<img src="/research/framework_1.jpg">
+</div>
+```
 
 ## 本地开发
 Step 1: 安装 Hugo，[参考文档](https://gohugo.io/getting-started/installing/)。
