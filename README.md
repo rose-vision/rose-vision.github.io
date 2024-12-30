@@ -5,7 +5,7 @@
 ## 快速开始
 因为本网站采用[GitHub Action](https://github.com/features/actions)自动构建并发布，所以如果只是更新网站中的部分内容（例如修改团队成员信息、添加publication）则没有必要在本地配置开发环境，甚至没有必要将本仓库克隆到本地，而是简单的对data目录下的数据文件进行修改并提交即可。下面介绍一些常见维护场景的操作方法
 
-### 添加 Publication
+### 1.添加 Publication
 编辑data目录中对应年份的文件publications文件，目前有2022-2024的publications/in20XX.yaml。记录的格式如下：
 
 ```yaml
@@ -41,7 +41,7 @@
 </ul>
 ```
 
-### 添加 Team Member
+### 2.添加 Team Member
 在data目录中team_en.yaml添加个人信息即可，格式如下：
 ```yaml
 - name: 名字
@@ -54,7 +54,7 @@
 ```
 其中照片文件应该放置在static/team目录中。
 
-### 发布新闻
+### 3.发布新闻
 在data/news目录中homepage.yaml中添加新闻即可，格式如下：
 ```yaml
 - title: 新闻标题（支持在其中使用html标签）
@@ -68,14 +68,14 @@
 
 
 
-### 维护首页
+### 4.维护首页
 #### 修改文字内容
 直接编辑content/_index.en.md文件即可。
 
 #### 修改轮播图
 首先将需要的图片放置在static/slide目录中，然后编辑data/slide.yaml指定想要轮播展示的图片的文件名，这里图片的个数不受限制。
 
-### 维护research
+### 5.维护research
 #### 修改文字内容
 直接编辑content/research/index.en.md文件即可。
 
