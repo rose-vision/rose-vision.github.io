@@ -46,11 +46,11 @@
 ```yaml
 - name: 名字
   photo: 照片
-  info: 职称
+  info: 职称，当position为member时可选：Postdoctoral Fellow, Ph.D. Student, M.S. Student。当position为alumni时可选：Master, Ph.D. 。
   email: 邮箱
   biography: 个人简介
   page: 个人主页链接(可填可不填)
-  position: 身份，可选director、member、Alumni
+  position: 身份，可选director、member、alumni
 ```
 其中照片文件应该放置在static/team目录中。
 
