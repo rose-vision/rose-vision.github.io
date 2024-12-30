@@ -64,4 +64,13 @@
   publication: IEEE Transactions on Multimedia (TMM)
   ccf_rank: B
 
+- title: "MIAD-MARK: Adversarial Watermarking of Medical Image for Protecting Copyright and Privacy"
+  authors: Xingxing Wei, Bangzheng Pu, Chi Chen, Huazhu Fu
+  publication: Proc. of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM2024)
+  ccf_rank: B
 
+- title: "Defending Adversarial Patches via Joint Region Localizing and Inpainting"
+  authors: Yafu Zhang, Shiji Zhao, Xingxing Wei, Sha Wei
+  publication: Chinese Conference on Pattern Recognition and Computer Vision (PRCV)
+
+  
