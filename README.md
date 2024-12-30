@@ -49,7 +49,7 @@
   info: 职称
   email: 邮箱
   biography: 个人简介
-  page: 个人主页链接
+  page: 个人主页链接(可填可不填)
   position: 身份，可选director、member、Alumni
 ```
 其中照片文件应该放置在static/team目录中。
