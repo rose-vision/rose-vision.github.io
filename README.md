@@ -6,7 +6,7 @@
 因为本网站采用[GitHub Action](https://github.com/features/actions)自动构建并发布，所以如果只是更新网站中的部分内容（例如修改团队成员信息、添加publication）则没有必要在本地配置开发环境，甚至没有必要将本仓库克隆到本地，而是简单的对data目录下的数据文件进行修改并提交即可。下面介绍一些常见维护场景的操作方法
 
 ### 添加 Publication
-编辑data目录中对应年份的文件publications文件，目前有2022-2024以及用与存放更早期数据的publications0000.yaml。记录的格式如下：
+编辑data目录中对应年份的文件publications文件，目前有2022-2024的publications0000.yaml。记录的格式如下：
 
 ```yaml
 - title: "文章标题"
