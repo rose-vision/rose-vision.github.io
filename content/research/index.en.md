@@ -32,6 +32,15 @@ Obtaining robust and invariant representations has been a longstanding challenge
 
 This direction focuses on investigating the robustness and invariance of existing deep learning-based vision models in the face of viewpoint transformations. It currently consists of four components: (1) Viewpoint robustness evaluation methods, which utilizes multi-view 3D reconstruction approaches such as neural radiance fields to capture the model’s worst-case viewpoint distribution. (2) An extreme/adversarial viewpoint sample generation method for producing realistic adversarial viewpoint examples. (3) A viewpoint-invariant adversarial training (VIAT) approach designed to enhance the viewpoint invariance of traditional single-task visual models via adversarial distribution training. (4) A viewpoint-invariant fine-tuning method for vision-language pre-trained (VLP) models. By performing cross-viewpoint alignment on a large-scale multi-view image-text dataset, we enhance the viewpoint-invariant representation capability of VLP models.
 
+## Geometry-Aware Adversarial Robustness 
+
+Unlike previous studies on imperceptible perturbations and pattern-aware adversarial patch perturbations, we explore the robustness of existing deep learning models against geometry-aware adversarial perturbations. By adversarially optimizing the geometric attributes of patches, such as their location, rotation and shape, etc., we create more natural and imperceptible adversarial patch attacks. This reveals the vulnerability of current deep learning systems (e.g., facial recognition and object detection) to such geometric disturbances.
+
+<div class="framework">
+<img src="/research/framework_3.jpg">
+</div>
+
+Research in this direction includes the following work: (1) Adversarial stickers for face recognition models. (2) pattern-location joint optimization adversarial patches for face recognition. (3) Distributional modeling methods for adversarial location-aware patch attacks. (4) Shape-location joint optimization adversarial patches for infrared detection. (5) Cross-modal shape-location joint optimization adversarial patches.
 
 <style>
     .framework {
