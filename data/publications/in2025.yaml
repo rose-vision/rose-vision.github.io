@@ -1,1 +1,8 @@
+- title: "TASAR: Transfer-based Attack on Skeletal Action Recognition"
+  authors: Yunfeng Diao, Baiqi Wu, Ruixuan Zhang, Ajian Liu, Xiaoshuai Hao, Xingxing Wei, Meng Wang, He Wang
+  publication: International Conference on Learning Representations (ICLR)
 
+- title: "Multi-task Robustness Enhancement Framework against Various Adversarial Patches"
+  authors: Lihua Jing, Rui Wang, Runbo Li, Zixuan Zhu, Xingxing Wei
+  publication: IEEE International Conference on Robotics and Automation (ICRA)
+  ccf_rank: B
