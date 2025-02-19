@@ -1,6 +1,18 @@
 # 英文主页展示的新闻
 en:
-  - title: One paper accepted by TMM (<b>CCF B</b>)! Congrats to <b>Lei Zhao</b>!
+  - title: Two paper were accepted by ICLR and ICRA, respectively! Congrats!
+    date: 2025-01
+    icon: 🎉
+
+  - title: One student passed the doctoral dissertation defense! Congrats to <b>Maoxun Yuan</b>!
+    date: 2025-01
+    icon: 🎉
+    
+  - title: One student was selected for (<b>Young Talent Support Project Doctoral Program</b>) held by the China Association for Science and Technology! Congrats to <b>Shiji Zhao</b>!
+    date: 2025-01
+    icon: 🎉
+
+  - title: One paper was accepted by TMM (<b>CCF B</b>)! Congrats to <b>Lei Zhao</b>!
     date: 2024-12
     icon: 🎉
 
@@ -12,12 +24,12 @@ en:
     date: 2024-12
     icon: 🎉
 
-  - title: Two papers accepted by NeurIPS (<b>CCF A</b>)! Congrats!
-    date: 2024-9
+  - title: Two papers were accepted by NeurIPS (<b>CCF A</b>)! Congrats!
+    date: 2024-09
     icon: 🎉
     
-  - title: Two papers accepted by TPAMI (<b>CCF A</b>)! Congrats to <b>Shiji Zhao</b>!
-    date: 2024-6
+  - title: Two papers were accepted by TPAMI (<b>CCF A</b>)! Congrats to <b>Shiji Zhao</b>!
+    date: 2024-06
     icon: 🎉
 
 
