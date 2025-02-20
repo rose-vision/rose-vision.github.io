@@ -4,6 +4,9 @@
 Our laboratory regularly organizes activities such as dinners, skiing, spring outings, etc. On this page, we showcase some photos of our event.
 </p>
 
+{{< slide1 >}}
+
+
 <div class="carousel-container">
     <div class="carousel">
         <img src="1.jpg" alt="Image 1">
@@ -13,18 +16,4 @@ Our laboratory regularly organizes activities such as dinners, skiing, spring ou
 </div>
 
 
-.carousel-container {
-    width: 100%;
-    overflow: hidden;
-    position: relative;
-}
 
-.carousel {
-    display: flex;
-    transition: transform 0.5s ease-in-out;
-}
-
-.carousel img {
-    width: 100%;
-    display: block;
-}
