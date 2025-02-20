@@ -45,13 +45,21 @@ theme = 'LoveIt'
         title = ""
         weight = 4
       [[languages.en.menu.main]]
+        identifier = "activity"
+        pre = ""
+        post = ""
+        name = "Activity"
+        url = "/activity/"
+        title = ""
+        weight = 5
+      [[languages.en.menu.main]]
         identifier = "github"
         pre = "<i class='fab fa-github fa-fw'></i>"
         post = ""
         name = ""
         url = "https://github.com/rose-vision"
         title = "GitHub"
-        weight = 5
+        weight = 6
     [languages.en.params]
       # site description
       description = "The website of RObust & SEcure Vision Lab @ BUAA"
