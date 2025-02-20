@@ -6,30 +6,3 @@ Our laboratory regularly organizes activities such as dinners, skiing, spring ou
 
 {{< slide1 >}}
 
-
-<div class="carousel-container">
-    <div class="carousel">
-        <img src="1.jpg" alt="Image 1">
-        <img src="2.jpg" alt="Image 2">
-        <!-- 添加更多图片 -->
-    </div>
-</div>
-
-
-<style>
-    .carousel-container {
-        width: 100%;
-        overflow: hidden;
-        position: relative;
-    }
-    
-    .carousel {
-        display: flex;
-        transition: transform 0.5s ease-in-out;
-    }
-    
-    .carousel img {
-        width: 100%;
-        display: block;
-    }
-</style>
