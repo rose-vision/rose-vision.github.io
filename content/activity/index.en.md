@@ -4,5 +4,5 @@
 Our laboratory regularly organizes activities such as dinners, skiing, spring outings, etc. On this page, we showcase some photos of our event.
 </p>
 
-{{< slide_activity >}}
+{{< slide-activity >}}
 
