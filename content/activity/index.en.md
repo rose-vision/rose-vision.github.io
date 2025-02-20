@@ -12,7 +12,6 @@ Our laboratory regularly organizes activities such as dinners, skiing, spring ou
     </div>
 </div>
 
-{{< slide-activity >}}
 
 .carousel-container {
     width: 100%;
