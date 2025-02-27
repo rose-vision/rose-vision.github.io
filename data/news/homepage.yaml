@@ -1,5 +1,9 @@
 # 英文主页展示的新闻
 en:
+  - title: One paper was accepted by IEEE CVPR! Congrats!
+    date: 2025-01
+    icon: 🎉
+    
   - title: Two papers were accepted by ICLR and ICRA, respectively! Congrats!
     date: 2025-01
     icon: 🎉
