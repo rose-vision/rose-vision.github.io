@@ -86,6 +86,10 @@
 <img src="/research/framework_1.jpg">
 </div>
 ```
+### 6.维护活动页
+#### 修改轮播图
+首先将需要的图片放置在static/slide1目录中，然后编辑data/slide1.yaml指定想要轮播展示的图片的文件名，这里图片的个数不受限制。
+
 
 ## 本地开发
 Step 1: 安装 Hugo，[参考文档](https://gohugo.io/getting-started/installing/)。
