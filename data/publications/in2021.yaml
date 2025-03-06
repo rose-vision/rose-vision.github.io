@@ -61,6 +61,11 @@
   publication: ACM International Conference on Multimedia (ACMMM2018)
   ccf_rank: A
 
+- title: "High Capacity Reversible Data Hiding in Encrypted Images by Patch-level Sparse Representation"
+  authors: Xiaochun Cao Ling Du, Xingxing Wei,  Dan Meng, Xiaojie Guo
+  publication: IEEE Transactions on Cybernetics (TCYB2015)
+  ccf_rank: B
+  
 - title: "An Object-level High-order Contextual Descriptor based on Semantic, Spatial and Scale Cues"
   authors: Xiaochun Cao, Xingxing Wei, Yahong Han, Xiaowu Chen
   publication: IEEE Transactions on Cybernetics (TCYB2014)
@@ -71,11 +76,11 @@
   publication: IEEE Transactions on Cybernetics (TCYB2014)
   ccf_rank: B
 
-- title: "High Capacity Reversible Data Hiding in Encrypted Images by Patch-level Sparse Representation"
-  authors: Xiaochun Cao Ling Du, Xingxing Wei,  Dan Meng, Xiaojie Guo
-  publication: IEEE Transactions on Cybernetics (TCYB2015)
+- title: "Augmenting Image Descriptions Using Structured Prediction Output"
+  authors: Yahong Han, Xingxing Wei, Xiaochun Cao, Yi Yang, Xiaofang Zhou
+  publication: IEEE Transactions on Multimedia (TMM2014)
   ccf_rank: B
-
+  
 - title: "Augmenting Image Retrieval using Multi-order Object Layout with Attributes"
   authors: Xiaochun Cao, Xingxing Wei, Xiaojie Guo, Yahong Han, Jinhui Tang
   publication: ACM International Conference on Multimedia (ACMMM2014)
@@ -85,11 +90,6 @@
   authors: Xiaochun Cao Xingxing Wei, Yahong Han, Yi Yang, DongDai Lin
   publication: International Joint Conferences on Artificial Intelligence (IJCAI2013)
   ccf_rank: A
-
-- title: "Augmenting Image Descriptions Using Structured Prediction Output"
-  authors: Yahong Han, Xingxing Wei, Xiaochun Cao, Yi Yang, Xiaofang Zhou
-  publication: IEEE Transactions on Multimedia (TMM2014)
-  ccf_rank: B
 
 - title: "Unified Dictionary Learning and Region Tagging with Hierarchical Sparse Representation"
   authors: Xiaochun Cao, Xingxing Wei, Yahong Han, Yi Yang, Nicu Sebe, Alexander Hauptmann
