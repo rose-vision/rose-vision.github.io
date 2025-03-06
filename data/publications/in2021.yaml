@@ -1,4 +1,97 @@
-- title: "Adversarial Sticker: A Stealthy Attack Method in the Physical World"
-  authors: Xingxing Wei*, Ying Guo, Jie Yu
-  publication: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+- title: "Efficient Sparse Attacks on Videos using Reinforcement Learning"
+  authors: Huanqian Yan,  Xingxing Wei*
+  publication: ACM International Conference on Multimedia (ACMMM2021)
   ccf_rank: A
+
+- title: "Parallel Rectangle Flip Attack: A Query-based Black-box Attack against Object Detection"
+  authors: Siyuan Liang, Baoyuan Wu, Yanbo Fan, Xingxing Wei, Xiaochun Cao
+  publication: International Conference on Computer Vision (ICCV2021)
+  ccf_rank: A
+  
+- title: "Black-box Adversarial Attacks by Manipulating Image Attributes"
+  authors: Xingxing Wei*, Ying Guo, Bo Li
+  publication: Information Sciences (INS2021)
+  ccf_rank: B
+
+- title: "Adv-watermark: A Novel Perturbations for Adversarial Examples"
+  authors: Xiaojun Jia, Xingxing Wei*, Xiaochun Cao, Xiaoguang Han
+  publication: ACM International Conference on Multimedia (ACMMM2020)
+  ccf_rank: A
+
+- title: "Ship Detection and Classification from Optical Remote Sensing Images: A Survey"
+  authors: Bo Li, Xiaoyang Xie, Xingxing Wei*, Wenting Tang
+  publication: Chinese Journal of Aeronautics (CJA2020)
+
+- title: "Ship Detection in Spaceborne Infrared Image Based on Lightweight CNN and Multisource Feature Cascade Decision"
+  authors: Nan Wang, Bo Li, Xingxing Wei*, Yonghua Zhang, Huanqian Yan
+  publication: IEEE Transactions on Geoscience and Remote Sensing (TGRS2020)
+  ccf_rank: B
+
+- title: "Efficient Adversarial Attacks for Visual Object Tracking"
+  authors: Siyuan Liang, Xingxing Wei*, Siyuan Yao, Xiaochun Cao
+  publication: European Conference on Computer Vision (ECCV2020)
+  ccf_rank: B
+
+- title: "Heuristic Black-box Adversarial Attacks on Video Recognition Model"
+  authors: Zhipeng Wei, Jingjing  Chen, Xingxing Wei*, Lingxi Jiang,  Yu-gang Jiang, Tat-Seng Chua, Fengfeng Zhou
+  publication: AAAI Conference on Artificial Intelligence (AAAI2020)
+  ccf_rank: A
+
+- title: "Ship Detection in Multispectral Satellite Images Under Complex Environment"
+  authors: Xiaoyang Xie, Bo Li, Xingxing Wei*
+  publication: Remote Sensing (RS2020)
+
+- title: "ComDefend: An Efficient Image Compression Model to Defend Adversarial Examples"
+  authors: Xiaojun Jia, Xingxing Wei*, Xiaochun Cao, Hassan Foroosh
+  publication: IEEE Conference on Computer Vision and Pattern Recognition (CVPR2019)
+  ccf_rank: A
+
+- title: "Transferable Adversarial Attacks for Image and Video Object Detection"
+  authors: Xingxing Wei,  Siyuan Liang, Ning Chen, Xiaochun Cao
+  publication: International Joint Conferences on Artificial Intelligence (IJCAI2019)
+  ccf_rank: A
+
+- title: "Sparse Adversarial Perturbations for Videos"
+  authors: Xingxing Wei, Jun Zhu, Sha Yuan, Hang Su
+  publication: AAAI Conference on Artificial Intelligence (AAAI2019)
+  ccf_rank: A
+
+- title: "Video-to-Video Translation with Global Temporal Consistency"
+  authors: Xingxing Wei, Jun Zhu, Sitong Feng, Hang Su
+  publication: ACM International Conference on Multimedia (ACMMM2018)
+  ccf_rank: A
+
+- title: "An Object-level High-order Contextual Descriptor based on Semantic, Spatial and Scale Cues"
+  authors: Xiaochun Cao, Xingxing Wei, Yahong Han, Xiaowu Chen
+  publication: IEEE Transactions on Cybernetics (TCYB2014)
+  ccf_rank: B
+
+- title: "Robust Face Clustering via Tensor Decomposition"
+  authors: Xiaochun Cao, Xingxing Wei, Yahong Han, Dongdai Lin
+  publication: IEEE Transactions on Cybernetics (TCYB2014)
+  ccf_rank: B
+
+- title: "High Capacity Reversible Data Hiding in Encrypted Images by Patch-level Sparse Representation"
+  authors: Xiaochun Cao Ling Du, Xingxing Wei,  Dan Meng, Xiaojie Guo
+  publication: IEEE Transactions on Cybernetics (TCYB2015)
+  ccf_rank: B
+
+- title: "Augmenting Image Retrieval using Multi-order Object Layout with Attributes"
+  authors: Xiaochun Cao, Xingxing Wei, Xiaojie Guo, Yahong Han, Jinhui Tang
+  publication: ACM International Conference on Multimedia (ACMMM2014)
+  ccf_rank: A
+
+- title: "Robust Tensor Clustering with Non-Greedy Maximization"
+  authors: Xiaochun Cao Xingxing Wei, Yahong Han, Yi Yang, DongDai Lin
+  publication: International Joint Conferences on Artificial Intelligence (IJCAI2013)
+  ccf_rank: A
+
+- title: "Augmenting Image Descriptions Using Structured Prediction Output"
+  authors: Yahong Han, Xingxing Wei, Xiaochun Cao, Yi Yang, Xiaofang Zhou
+  publication: IEEE Transactions on Multimedia (TMM2014)
+  ccf_rank: B
+
+- title: "Unified Dictionary Learning and Region Tagging with Hierarchical Sparse Representation"
+  authors: Xiaochun Cao, Xingxing Wei, Yahong Han, Yi Yang, Nicu Sebe, Alexander Hauptmann
+  publication: Computer Vision and Image Understanding (CVIU2013)
+  ccf_rank: B
