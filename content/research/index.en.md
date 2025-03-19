@@ -14,7 +14,7 @@ In this page, we will introduce several representive works in our group.
 
 We mainly focus on the Out-Of Distribution (OOD) robustness of vision models. 
 
-<b>Viewpoint Robustness of Vision Models:</b> 
+<b>1. Viewpoint Robustness of Vision Models:</b> 
 
 Obtaining robust and invariant representations has been a longstanding challenge in the field of computer vision. Previous deep learning research on robustness has largely concentrated on adversarial perturbations under the L-p norm. However, in complex and dynamic physical environments, there exist many natural perturbations worthy of investigation, among which 3D viewpoint transformations are a particularly important factor. Studying model robustness under natural viewpoint changes holds significant relevance for safety-critical applications in areas such as autonomous driving and embodied robotics.
 
@@ -24,7 +24,7 @@ Obtaining robust and invariant representations has been a longstanding challenge
 
 This direction focuses on investigating the robustness and invariance of existing deep learning-based vision models in the face of viewpoint transformations. It currently consists of four components: <b>(1)</b>  Viewpoint robustness evaluation methods, which utilizes multi-view 3D reconstruction approaches such as neural radiance fields to capture the model’s worst-case viewpoint distribution. <b>(2)</b> An extreme/adversarial viewpoint sample generation method for producing realistic adversarial viewpoint examples. <b>(3)</b> A viewpoint-invariant adversarial training (VIAT) approach designed to enhance the viewpoint invariance of traditional single-task visual models via adversarial distribution training. <b>(4)</b> A viewpoint-invariant fine-tuning method for vision-language pre-trained (VLP) models. By performing cross-viewpoint alignment on a large-scale multi-view image-text dataset, we enhance the viewpoint-invariant representation capability of VLP models.
 
-<b>Illumination Robustness of Vision Models:</b>
+<b>2. Illumination Robustness of Vision Models:</b>
 
 Exploring illumination robustness is essential for the deployment of vision models in real-world applications. Current deep learning methods mainly relies on the visible (RGB) images and design various CNN structures for visual perception. However, the illumination conditions of objects change dynamically, which makes it difficult for the model to obtain accurate visual features in complex scenes. Improving model robust representation under complex illumination conditions is of great significance for safety-critical applications in areas such as surveillance and remote sensing.
 
@@ -41,7 +41,7 @@ This direction is dedicated to utilizing the infrared (IR) modality as complemen
 
 We mainly focus on the adversarial attacks and defense of vision models. 
 
-<b>Attack: Geometry-Aware Adversarial Patches in the Physical World:</b>
+<b>1. Attack: Geometry-Aware Adversarial Patches in the Physical World:</b>
 
 Adversarial Patch is an important form of adversarial attack in the physical world. However, the current adversarial patch methods mainly optimize the patch's texture to achieve attacks (we call them as Texture-Aware Adversarial Patches). These physical attacks encounter several significant challenges. Firstly, these attacks often take the form of irregular noise patterns, which lack naturalness and make them less covert in real-world scenarios. Secondly, when transitioning from the digital space to the physical domain, the attack patterns are prone to distortions, compromising their effectiveness. Additionally, environmental factors such as variations in shooting angles, lighting conditions, and distances during real-world implementations can introduce further distortions, making it difficult to maintain consistency and reliability. These challenges highlight the complexity of designing robust physical attacks in real-world applications.
 
@@ -51,7 +51,7 @@ Adversarial Patch is an important form of adversarial attack in the physical wor
 
 To meet these challenges, our group proposes the Geometry-Aware Adversarial Patches in the Physical World by adversarially optimizing the geometric attributes of patches, such as their location, rotation and shape, etc., we create more natural and imperceptible adversarial patch attacks. This form of adversarial patch can improve the robustness of adversarial attacks in the physical world effectively. The representative works in our group in this direction are as follows: <b>(1)</b> Location-aware Adversarial stickers for face recognition models, which optimizes the location and rotation of existing meaning stickers on the object to perform physical attacks. <b>(2)</b> Shape-aware Adversarial Patches, which can be applied on the visible and infrared domain at the same time, and thus achieving the cross-modal physical attacks. <b>(3)</b> Texture-Geometry joint adversarial patches, where we show that the proposed geometry-aware adversarial patch can also combine the traditional texture-aware adversarial patch, and thus achieving better attack performance.  
 
-<b>Defense: Trade-off between Nature Accuracy and Adversarial Robustness:</b>
+<b>2. Defense: Trade-off between Nature Accuracy and Adversarial Robustness:</b>
 
 Deep neural networks (DNNs) can achieve excellent performance on various complex tasks. However, recent studies have found that deep neural networks face serious security risks, namely adversarial attacks. Adversarial attacks refer to adding subtle perturbations to input data that are imperceptible to humans, causing deep neural networks to produce wrong outputs. Current research often faces difficulties in the Trade-off between accuracy and adversarial robustness, as well as the Trade-off between overall robustness and worst robustness (fairness issues), which poses challenges for DNNs in practical applications. Therefore, finding effective methods to address those difficult trade-off phenomena, is an urgent and challenging issue in deep learning.
 
