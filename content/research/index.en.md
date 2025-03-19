@@ -24,6 +24,18 @@ Obtaining robust and invariant representations has been a longstanding challenge
 
 This direction focuses on investigating the robustness and invariance of existing deep learning-based vision models in the face of viewpoint transformations. It currently consists of four components: <b>(1)</b>  Viewpoint robustness evaluation methods, which utilizes multi-view 3D reconstruction approaches such as neural radiance fields to capture the model’s worst-case viewpoint distribution. <b>(2)</b> An extreme/adversarial viewpoint sample generation method for producing realistic adversarial viewpoint examples. <b>(3)</b> A viewpoint-invariant adversarial training (VIAT) approach designed to enhance the viewpoint invariance of traditional single-task visual models via adversarial distribution training. <b>(4)</b> A viewpoint-invariant fine-tuning method for vision-language pre-trained (VLP) models. By performing cross-viewpoint alignment on a large-scale multi-view image-text dataset, we enhance the viewpoint-invariant representation capability of VLP models.
 
+<b>Illumination Robustness of Vision Models:</b>
+
+Exploring illumination robustness is essential for the deployment of vision models in real-world applications. Current deep learning methods mainly relies on the visible (RGB) images and design various CNN structures for visual perception. However, the illumination conditions of objects change dynamically, which makes it difficult for the model to obtain accurate visual features in complex scenes. Improving model robust representation under complex illumination conditions is of great significance for safety-critical applications in areas such as surveillance and remote sensing.
+
+
+<div class="framework">
+<img src="/research/framework_4.jpg">
+</div>
+
+
+This direction is dedicated to utilizing the infrared (IR) modality as complementary information to fuse with visible modality, thereby achieving robust representations and around-the-clock visual perception. To achieve this purpose, our group currently propose the RGB-IR visual perception model from the following aspects:
+<b>(1)</b> An instance-level alignment method that aligns RoI features by predicting the deviation between RGB and IR proposals to effectively obtain enhanced RoI-fused feature representations. <b>(2)</b> A transformer-based method for RGB-IR object detection. By utilizing the cross-attention mechanism on RGB and IR features, we simultaneously align and fuse two modality features and obtain the robust representation for object detection. <b>(3)</b> A coarse-to-fine fusion method that coarsely remove the redundant feature from each modality and finely select the desired scale features for complementary fusion.
 
 ## Security
 
