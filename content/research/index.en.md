@@ -14,7 +14,7 @@ In this page, we will introduce several representive works in our group.
 
 We mainly focus on the Out-Of Distribution (OOD) robustness of vision models. 
 
-<b>1. Viewpoint Robustness of Vision Models:</b> 
+<b>1. Viewpoint-Invariant Robustness of Vision Models:</b> 
 
 Obtaining robust and invariant representations has been a longstanding challenge in the field of computer vision. Previous deep learning research on robustness has largely concentrated on adversarial perturbations under the L-p norm. However, in complex and dynamic physical environments, there exist many natural perturbations worthy of investigation, among which 3D viewpoint transformations are a particularly important factor. Studying model robustness under natural viewpoint changes holds significant relevance for safety-critical applications in areas such as autonomous driving and embodied robotics.
 
@@ -24,7 +24,7 @@ Obtaining robust and invariant representations has been a longstanding challenge
 
 This direction focuses on investigating the robustness and invariance of existing deep learning-based vision models in the face of viewpoint transformations. It currently consists of four components: <b>(1)</b>  Viewpoint robustness evaluation methods, which utilizes multi-view 3D reconstruction approaches such as neural radiance fields to capture the model’s worst-case viewpoint distribution. <b>(2)</b> An extreme/adversarial viewpoint sample generation method for producing realistic adversarial viewpoint examples. <b>(3)</b> A viewpoint-invariant adversarial training (VIAT) approach designed to enhance the viewpoint invariance of traditional single-task visual models via adversarial distribution training. <b>(4)</b> A viewpoint-invariant fine-tuning method for vision-language pre-trained (VLP) models. By performing cross-viewpoint alignment on a large-scale multi-view image-text dataset, we enhance the viewpoint-invariant representation capability of VLP models.
 
-<b>2. Illumination Robustness of Vision Models:</b>
+<b>2. Illumination-Invariant Robustness of Vision Models:</b>
 
 Exploring illumination robustness is essential for the deployment of vision models in real-world applications. Current deep learning methods mainly relies on the visible (RGB) images and design various CNN structures for visual perception. However, the illumination conditions of objects change dynamically, which makes it difficult for the model to obtain accurate visual features in complex scenes. Improving model robust representation under complex illumination conditions is of great significance for safety-critical applications in areas such as surveillance and remote sensing.
 
