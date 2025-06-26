@@ -1,4 +1,4 @@
-# Robustness & Security Vison Laboratory (ROSE-Vision-lab) Website
+# Robust & Secure Vison Laboratory (ROSE-Vision-lab) Website
 
 这是北京航空航天大学ROSE Vison Lab的主页源代码仓库，借鉴于[重庆大学网络安全实验室](https://csl-cqu.github.io/)。该网站采用[Hugo](https://gohugo.io/)框架构建，并在[GitHub Pages](https://pages.github.com/)部署，网站整体框架从[LoveIt](https://github.com/dillonzq/LoveIt)模板修改而来。
 
