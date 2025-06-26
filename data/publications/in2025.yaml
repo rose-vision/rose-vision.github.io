@@ -1,3 +1,23 @@
+- title: "AdvDreamer Unveils: Are Vision-Language Models Truly Ready for Real-World 3D Variations?"
+  authors: Shouwei Ruan, Hanqing Liu, Yao Huang, Xiaoqi Wang, Caixin Kang, Hang Su, Yinpeng Dong, Xingxing Wei*
+  publication: International Conference on Computer Vision (ICCV2025)
+  ccf_rank: A
+  
+- title: "When Lighting Deceives: Exposing Vision-Language Models'  Vulnerability Through Illumination Transformation Attack"
+  authors: Hanqing Liu, Shouwei Ruan, Yao Huang, Shiji Zhao, Xingxing Wei*
+  publication: International Conference on Computer Vision (ICCV2025)
+  ccf_rank: A
+
+- title: "Rethinking Multi-modal Object Detection from the Perspective of Mono-Modality Feature Learning"
+  authors: Tianyi Zhao, Boyang Liu, Yanglei Gao, Yiming Sun, Maoxun Yuan, Xingxing Wei*
+  publication: International Conference on Computer Vision (ICCV2025)
+  ccf_rank: A
+  
+- title: "Jailbreaking Multimodal Large Language Models via Shuffle Inconsistency"
+  authors: Shiji Zhao, Ranjie Duan, Fengxiang Wang, Chi Chen, Caixin Kang, Shouwei Ruan, Jialing Tao, YueFeng Chen, Hui Xue, Xingxing Wei*
+  publication: International Conference on Computer Vision (ICCV2025)
+  ccf_rank: A
+
 - title: "Breaking the Ceiling: Exploring the Potential of Jailbreak Attacks through Expanding Strategy Space"
   authors: Yao Huang, Yitong Sun, Shouwei Ruan, Yichi Zhang, Yinpeng Dong, Xingxing Wei*
   publication: Annual Meeting of the Association for Computational Linguistics (ACL2025)
