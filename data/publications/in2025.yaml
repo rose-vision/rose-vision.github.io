@@ -1,3 +1,13 @@
+- title: "UniRGB-IR: A Unified Framework for Visible-Infrared Semantic Tasks via Adapter Tuning"
+  authors: Maoxun Yuan, Bo Cui, Tianyi Zhao, Jiayi Wang, Shan Fu, Xue Yang, Xingxing Wei*
+  publication: ACM International Conference on Multimedia (ACMMM2025)
+  ccf_rank: A
+
+  - title: "NDM: A Noise-driven Detection and Mitigation Framework against Implicit Sexual Intentions in Text-to-Image Generation"
+  authors: Yitong Sun, Yao Huang, Ruochen Zhang, Huanran Chen, Shouwei Ruan, Ranjie Duan, Xingxing Wei*
+  publication: ACM International Conference on Multimedia (ACMMM2025)
+  ccf_rank: A
+
 - title: "AdvDreamer Unveils: Are Vision-Language Models Truly Ready for Real-World 3D Variations?"
   authors: Shouwei Ruan, Hanqing Liu, Yao Huang, Xiaoqi Wang, Caixin Kang, Hang Su, Yinpeng Dong, Xingxing Wei*
   publication: International Conference on Computer Vision (ICCV2025)
