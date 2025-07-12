@@ -1,11 +1,19 @@
 # 英文主页展示的新闻
 en:
+  - title: One paper was selected for the <b>ESI Highly Cited Paper</b>! Congrats to <b>Maoxun Yuan</b>!
+    date: 2025-07
+    icon: 🎉
+    
   - title: Two papers were accepted by ACMMM2025! Congrats!
     date: 2025-07
     icon: 🎉
     
   - title: Four papers were accepted by ICCV2025! Congrats!
     date: 2025-06
+    icon: 🎉
+
+  - title: One paper was accepted by ACL2025 Findings！Congrats!
+    date: 2025-05
     icon: 🎉
     
   - title: One paper was accepted by IEEE CVPR2025! Congrats!
