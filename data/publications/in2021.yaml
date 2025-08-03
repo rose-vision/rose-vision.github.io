@@ -13,33 +13,37 @@
   publication: Information Sciences (INS2021)
   ccf_rank: B
 
+- title: "Ship Detection in Spaceborne Infrared Image Based on Lightweight CNN and Multisource Feature Cascade Decision"
+  authors: Nan Wang, Bo Li, Xingxing Wei*, Yonghua Zhang, Huanqian Yan
+  publication: IEEE Transactions on Geoscience and Remote Sensing (TGRS2021)
+  ccf_rank: B
+
 - title: "Adv-watermark: A Novel Perturbations for Adversarial Examples"
   authors: Xiaojun Jia, Xingxing Wei*, Xiaochun Cao, Xiaoguang Han
   publication: ACM International Conference on Multimedia (ACMMM2020)
   ccf_rank: A
-
-- title: "Ship Detection and Classification from Optical Remote Sensing Images: A Survey"
-  authors: Bo Li, Xiaoyang Xie, Xingxing Wei*, Wenting Tang
-  publication: Chinese Journal of Aeronautics (CJA2020)
-
-- title: "Ship Detection in Spaceborne Infrared Image Based on Lightweight CNN and Multisource Feature Cascade Decision"
-  authors: Nan Wang, Bo Li, Xingxing Wei*, Yonghua Zhang, Huanqian Yan
-  publication: IEEE Transactions on Geoscience and Remote Sensing (TGRS2020)
-  ccf_rank: B
-
-- title: "Efficient Adversarial Attacks for Visual Object Tracking"
-  authors: Siyuan Liang, Xingxing Wei*, Siyuan Yao, Xiaochun Cao
-  publication: European Conference on Computer Vision (ECCV2020)
-  ccf_rank: B
 
 - title: "Heuristic Black-box Adversarial Attacks on Video Recognition Model"
   authors: Zhipeng Wei, Jingjing  Chen, Xingxing Wei*, Lingxi Jiang,  Yu-gang Jiang, Tat-Seng Chua, Fengfeng Zhou
   publication: AAAI Conference on Artificial Intelligence (AAAI2020)
   ccf_rank: A
 
+- title: "Efficient Adversarial Attacks for Visual Object Tracking"
+  authors: Siyuan Liang, Xingxing Wei*, Siyuan Yao, Xiaochun Cao
+  publication: European Conference on Computer Vision (ECCV2020)
+  ccf_rank: B
+
+- title: "Ship Detection and Classification from Optical Remote Sensing Images: A Survey"
+  authors: Bo Li, Xiaoyang Xie, Xingxing Wei*, Wenting Tang
+  publication: Chinese Journal of Aeronautics (CJA2020)
+
 - title: "Ship Detection in Multispectral Satellite Images Under Complex Environment"
   authors: Xiaoyang Xie, Bo Li, Xingxing Wei*
   publication: Remote Sensing (RS2020)
+
+- title: "Defense for Adversarial Videos by Self-adaptive JPEG Compression and Optical Texture"
+  authors: Yupeng Cheng, Xingxing Wei*, Huazhu Fu, Shang-Wei Lin, Weisi Lin
+  publication: ACM Multimedia Asia (MMAsia2020)
 
 - title: "ComDefend: An Efficient Image Compression Model to Defend Adversarial Examples"
   authors: Xiaojun Jia, Xingxing Wei*, Xiaochun Cao, Hassan Foroosh
