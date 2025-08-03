@@ -33,10 +33,14 @@
   publication: European Conference on Computer Vision 2022 (ECCV2022)
   ccf_rank: B
 
-
 - title: "A2SC: Adversrial Attack on Subspace Clustering"
   authors: Yikun Xu, Xingxing Wei*
   publication: IEEE International Conference on Mutimedia and Expo (ICME2022)
   ccf_rank: B
+
+- title: "Enhancing Transferability of Adversarial Examples with Spatial Momentum"
+  authors: Guoqiu Wang, Huanqian Yan, Xingxing Wei*
+  publication: Chinese Conference on Pattern Recognition and Computer Vision (PRCV2022)
+  ccf_rank: C
 
 
