@@ -1,0 +1,19 @@
+- title: "ComDefend: An Efficient Image Compression Model to Defend Adversarial Examples"
+  authors: Xiaojun Jia, Xingxing Wei*, Xiaochun Cao, Hassan Foroosh
+  publication: IEEE Conference on Computer Vision and Pattern Recognition (CVPR2019)
+  ccf_rank: A
+
+- title: "Transferable Adversarial Attacks for Image and Video Object Detection"
+  authors: Xingxing Wei,  Siyuan Liang, Ning Chen, Xiaochun Cao
+  publication: International Joint Conferences on Artificial Intelligence (IJCAI2019)
+  ccf_rank: A
+
+- title: "Sparse Adversarial Perturbations for Videos"
+  authors: Xingxing Wei, Jun Zhu, Sha Yuan, Hang Su
+  publication: AAAI Conference on Artificial Intelligence (AAAI2019)
+  ccf_rank: A
+
+- title: "Video-to-Video Translation with Global Temporal Consistency"
+  authors: Xingxing Wei, Jun Zhu, Sitong Feng, Hang Su
+  publication: ACM International Conference on Multimedia (ACMMM2019)
+  ccf_rank: A
