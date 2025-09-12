@@ -72,6 +72,34 @@
   biography: Computer vision, Image Generation, Object Detection, Remote Sensing.
   position: member
 
+  - name: Qihui Zhu
+  photo: zqh.jpg
+  info: Ph.D. Student
+  email: emmazhu@buaa.edu.cn
+  biography: adversarial robustness, MLLMs safety and Embodied AI.
+  position: member
+
+  - name: Yubo Chen
+  photo: cyb.jpg
+  info: Ph.D. Student
+  email: chenyubo@buaa.edu.cn
+  biography: Computer vision, MLLMs safety, autonomous driving.
+  position: member
+
+  - name: Shukun Xiong
+  photo: xsk.jpg
+  info: Ph.D. Student
+  email: shukunxiong@buaa.edu.cn
+  biography: computer vision, adversarial robustness in machine learning,and multimodal safety.
+  position: member
+  
+  - name: Jiawen Xi
+  photo: xjw.jpg
+  info: Ph.D. Student
+  email: xijiawen@buaa.edu.cn
+  biography: Computer vision, Object Detection, Remote Sensing.
+  position: member
+
 - name: Yao Huang
   photo: yaohuang.jpg
   info: M.S. Student
@@ -121,6 +149,27 @@
   info: M.S. Student
   email: MengDuanni@buaa.edu.cn
   biography: Computer vision, Object Detection, Remote Sensing.
+  position: member
+
+- name: Mengyang Wang
+  photo: wmy.jpg
+  info: M.S. Student
+  email: mengyangWang@buaa.edu.cn
+  biography:  Computer vision, deep learning and adversarial attack.
+  position: member
+
+- name: Yaxi Wang
+  photo: wyx.jpg
+  info: M.S. Student
+  email: yaxiwang@buaa.edu.cn
+  biography: Computer vision, Object Detection, Remote Sensing.
+  position: member
+
+- name: Qihao Xu
+  photo: xqh.jpg
+  info: M.S. Student
+  email: xuqihao@buaa.edu.cn
+  biography: Multimodal Perception, Multisource Data Fusion and Remote Sensing
   position: member
 
 - name: Huanqian Yan
