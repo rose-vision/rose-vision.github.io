@@ -80,28 +80,6 @@
   page: https://scholar.google.com/citations?user=-_jMcVcAAAAJ&hl=en
   position: member
 
-- name: Bo Cui
-  photo: bocui.jpg
-  info: M.S. Student
-  email: tsuipo@buaa.edu.cn
-  biography: Multimodal Perception, Multisource Data Fusion and Remote Sensing.
-  position: member
-
-- name: Hanqing Liu
-  photo: hanqingliu.jpg
-  info: M.S. Student
-  email: hqliu@buaa.edu.cn
-  biography: Computer vision, adversarial attack, Image Generation.
-  page: https://scholar.google.com/citations?user=ZJyXzLwAAAAJ&hl=zh-CN
-  position: member
-
-- name: Chi Chen
-  photo: chichen.jpg
-  info: M.S. Student
-  email: chenchi@buaa.edu.cn
-  biography: Computer vision,adversarial robustness, MLLMs safety.
-  position: member
-
 - name: Xiaoqi Wang
   photo: xiaoqiwang.jpg
   info: M.S. Student
@@ -154,8 +132,25 @@
 - name: Caixing Kang
   degree: Master
   years: 2022-2024
-  works: University of Tokyo
-  page: https://scholar.google.com/citations?user=zH_oaboAAAAJ&hl=zh-CN
+  works: Tencent
+  position: alumni
+
+- name: Bo Cui
+  degree: Master
+  years: 2022-2025
+  works: Baidu
+  position: alumni
+
+- name: Hanqing Liu
+  degree: Master
+  years: 2022-2025
+  works: Civil Servant
+  position: alumni
+
+- name: Chi Chen
+  degree: Master
+  years: 2022-2025
+  works: Boss Zhipin
   position: alumni
   
 - name: Xizhe Wang
