@@ -72,28 +72,28 @@
   biography: Computer vision, Image Generation, Object Detection, Remote Sensing.
   position: member
 
-  - name: Qihui Zhu
+- name: Qihui Zhu
   photo: zqh.jpg
   info: Ph.D. Student
   email: emmazhu@buaa.edu.cn
   biography: adversarial robustness, MLLMs safety and Embodied AI.
   position: member
 
-  - name: Yubo Chen
+- name: Yubo Chen
   photo: cyb.jpg
   info: Ph.D. Student
   email: chenyubo@buaa.edu.cn
   biography: Computer vision, MLLMs safety, autonomous driving.
   position: member
 
-  - name: Shukun Xiong
+- name: Shukun Xiong
   photo: xsk.jpg
   info: Ph.D. Student
   email: shukunxiong@buaa.edu.cn
   biography: computer vision, adversarial robustness in machine learning,and multimodal safety.
   position: member
   
-  - name: Jiawen Xi
+- name: Jiawen Xi
   photo: xjw.jpg
   info: Ph.D. Student
   email: xijiawen@buaa.edu.cn
