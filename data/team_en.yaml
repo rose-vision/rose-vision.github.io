@@ -151,6 +151,14 @@
   biography: Computer vision, Object Detection, Remote Sensing.
   position: member
 
+
+- name: Zhenyu Wu
+  photo: wzy.jpg
+  info: M.S. Student
+  email: zhenyuwu414@gmail.com
+  biography:  LLM Alignment，Image＆3D Generation，MLLMs safety.
+  position: member
+  
 - name: Mengyang Wang
   photo: wmy.jpg
   info: M.S. Student
