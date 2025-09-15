@@ -210,6 +210,13 @@
   works: Boss Zhipin
   position: alumni
 
+
+- name: Xizhe Wang
+  degree: Master
+  years: 2022-2024
+  works: Tencent
+  position: alumni
+
 - name: Songping Wang
   degree: Master
   years: 2021-2024
@@ -226,12 +233,6 @@
   degree: Master
   years: 2021-2024
   works: SenseTime
-  position: alumni
-
-- name: Xizhe Wang
-  degree: Master
-  years: 2022-2024
-  works: Tencent
   position: alumni
 
 - name: Jie Yu
