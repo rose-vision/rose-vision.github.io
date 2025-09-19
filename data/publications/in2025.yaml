@@ -2,6 +2,16 @@
   authors: Xingxing Wei, Caixin Kang, Yinpeng Dong, Zhengyi Wang, Shouwei Ruan, Yubo Chen, Hang Su
   publication: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   ccf_rank: A
+
+- title: "Mitigating Overthinking in Large Reasoning Models via Manifold Steering"
+  authors: Yao Huang, Huanran Chen, Shouwei Ruan, Yichi Zhang, Xingxing Wei, Yinpeng Dong
+  publication: Annual Conference on Neural Information Processing Systems (NeurIPS2025)
+  ccf_rank: A
+
+- title: "DeceptionBench: A Comprehensive Benchmark for AI Deception Behaviors in Real-world Scenarios"
+  authors: Yao Huang, Yitong Sun, Yichi Zhang, Ruochen Zhang, Yinpeng Dong, Xingxing Wei*
+  publication: Annual Conference on Neural Information Processing Systems (NeurIPS2025)
+  ccf_rank: A
   
 - title: "UniRGB-IR: A Unified Framework for Visible-Infrared Semantic Tasks via Adapter Tuning"
   authors: Maoxun Yuan, Bo Cui, Tianyi Zhao, Jiayi Wang, Shan Fu, Xue Yang, Xingxing Wei*
