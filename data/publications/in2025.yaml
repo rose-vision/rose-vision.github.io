@@ -62,3 +62,8 @@
   authors: Lihua Jing, Rui Wang, Runbo Li, Zixuan Zhu, Xingxing Wei
   publication: IEEE International Conference on Robotics and Automation (ICRA2025)
   ccf_rank: B
+
+- title: "空间细节记忆指导多光谱图像的全色锐化方法"
+  authors: 袁茂洵、赵天一、李波、韦星星*
+  publication: 计算机辅助设计与图形学学报
+  ccf_rank: A
