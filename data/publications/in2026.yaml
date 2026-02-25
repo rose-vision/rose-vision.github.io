@@ -1,14 +1,14 @@
+- title: "Visual Adversarial Attacks and Defenses in the Physical World: A Survey"
+  highlight: Survey Paper
+  authors: Xingxing Wei*, Bangzheng Pu, Shiji Zhao, Jiefan Lu, Baoyuan Wu
+  publication: ACM Computing Surveys
+
+
 - title: "Seeing Through the Noise: Improving Infrared Small Target Detection and Segmentation from Noise Suppression Perspective"
   authors: Maoxun Yuan, Duanni Meng, Ziteng Xi, Tianyi Zhao, Shiji Zhao, Yimian Dai, Xingxing Wei*
   publication: IEEE Conference on Computer Vision and Pattern Recognition‌ (CVPR2026)
   ccf_rank: A
 
-
-- title: "Visual Adversarial Attacks and Defenses in the Physical World: A Survey"
-  highlight: Survey Paper
-  authors: Xingxing Wei*, Bangzheng Pu, Shiji Zhao, Jiefan Lu, Baoyuan Wu
-  publication: ACM Computing Surveys
-  
   
 - title: "Any2Critical: Safety-Critical Scenario Generation from Arbitrary Real-World Driving Contexts"
   authors: Yao Huang, Yubo Chen, Ruochen Zhang, Yitong Sun, Shouwei Ruan, Zhenyu Wu, Yinpeng Dong, Xingxing Wei*
