@@ -57,6 +57,7 @@
 - title: "TASAR: Transfer-based Attack on Skeletal Action Recognition"
   authors: Yunfeng Diao, Baiqi Wu, Ruixuan Zhang, Ajian Liu, Xiaoshuai Hao, Xingxing Wei, Meng Wang, He Wang
   publication: International Conference on Learning Representations (ICLR2025)
+  ccf_rank: A
 
 - title: "Multi-task Robustness Enhancement Framework against Various Adversarial Patches"
   authors: Lihua Jing, Rui Wang, Runbo Li, Zixuan Zhu, Xingxing Wei
@@ -71,7 +72,7 @@
 - title: "Vulnerabilities in AI-generated Image Detection: The Challenge of Adversarial Attacks"
   authors: Yunfeng Diao, Naixin Zhai, Changtao Miao, Zitong Yu, Xingxing Wei, Xun Yang, Meng Wang
   publication: IEEE Transactions on Multimedia (TMM)
-  ccf_rank: B  
+  ccf_rank: A  
 
 - title: "空间细节记忆指导多光谱图像的全色锐化方法"
   authors: 袁茂洵、赵天一、李波、韦星星*
