@@ -9,6 +9,10 @@
   publication: IEEE Conference on Computer Vision and Pattern Recognition‌ (CVPR2026)
   ccf_rank: A
 
+- title: "VRSA: Jailbreaking Multimodal Large Language Models through Visual Reasoning Sequential Attack"
+  authors: Shiji Zhao, Shukun Xiong, Yao Huang, JIN YAN, Zhenyu Wu, Jiyang Guan, Ranjie Duan, Jialing Tao, Hui Xue, Xingxing Wei*
+  publication: IEEE Conference on Computer Vision and Pattern Recognition‌ (CVPR2026 Findings)
+  ccf_rank: A
   
 - title: "Any2Critical: Safety-Critical Scenario Generation from Arbitrary Real-World Driving Contexts"
   authors: Yao Huang, Yubo Chen, Ruochen Zhang, Yitong Sun, Shouwei Ruan, Zhenyu Wu, Yinpeng Dong, Xingxing Wei*
