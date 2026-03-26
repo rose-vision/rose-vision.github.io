@@ -3,6 +3,10 @@
   authors: Xingxing Wei*, Bangzheng Pu, Shiji Zhao, Jiefan Lu, Baoyuan Wu
   publication: ACM Computing Surveys
 
+- title: "Knowledge-guided Adversarial Training for Infrared Object Detection via Thermal Radiation Modeling"
+  authors: Shiji Zhao, Shukun Xiong, Maoxun Yuan, Yao Huang, Ranjie Duan, Qing Guo, Jiansheng Chen, Haibin Duan, Xingxing Wei*
+  publication: International Journal of Computer Vision (IJCV)
+  ccf_rank: A
 
 - title: "Seeing Through the Noise: Improving Infrared Small Target Detection and Segmentation from Noise Suppression Perspective"
   authors: Maoxun Yuan, Duanni Meng, Ziteng Xi, Tianyi Zhao, Shiji Zhao, Yimian Dai, Xingxing Wei*
