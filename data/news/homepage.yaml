@@ -1,5 +1,17 @@
 # 英文主页展示的新闻
 en:
+  - title: 本实验室招收2026年秋季入学学术型博士两名，请有意向学生联系xxwei@buaa.edu.cn！
+    date: 2026-04
+    icon: 🎉
+  
+  - title: One paper was accepted by IJCV (<b>CCF A</b>)! Congrats to <b>Shiji Zhao</b>!
+    date: 2026-03
+    icon: 🎉
+
+  - title: One survey paper was accepted by ACM Computing Surveys! 
+    date: 2026-01
+    icon: 🎉
+  
   - title: One paper was accepted by IEEE TPAMI (<b>CCF A</b>)! Congrats to <b>Caixin Kang</b>!
     date: 2025-08
     icon: 🎉
