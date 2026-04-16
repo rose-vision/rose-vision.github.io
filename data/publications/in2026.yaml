@@ -3,6 +3,11 @@
   authors: Xingxing Wei*, Bangzheng Pu, Shiji Zhao, Jiefan Lu, Baoyuan Wu
   publication: ACM Computing Surveys
 
+- title: "Improving Viewpoint Robustness for Visual Recognition via Adversarial Training"
+  authors: Shouwei Ruan, Yinpeng Dong, Hang Su, Ning Chen, Haibin Duan, Xingxing Wei*
+  publication: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+  ccf_rank: A
+
 - title: "Knowledge-guided Adversarial Training for Infrared Object Detection via Thermal Radiation Modeling"
   authors: Shiji Zhao, Shukun Xiong, Maoxun Yuan, Yao Huang, Ranjie Duan, Qing Guo, Jiansheng Chen, Haibin Duan, Xingxing Wei*
   publication: International Journal of Computer Vision (IJCV)
