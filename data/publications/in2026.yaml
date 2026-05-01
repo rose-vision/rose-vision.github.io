@@ -18,6 +18,16 @@
   publication: International Journal of Computer Vision (IJCV)
   ccf_rank: A
 
+- title: "Towards Seed-Robust Safety Alignment in Text-to-Image Models"
+  authors: Zhenyu Wu, Yao Huang, Shouwei Ruan, Xingxing Wei*
+  publication: IEEE International Conference on Machine Learning (ICML2026)
+  ccf_rank: A
+
+- title: "MESA: Improving MoE Safety Alignment via Decentralized Expertise"
+  authors: Yitong Sun, Yao Huang, Teng Li, Ranjie Duan, Yichi Zhang, Xingjun Ma, Hui Xue, Xingxing Wei*
+  publication: IEEE International Conference on Machine Learning (ICML2026)
+  ccf_rank: A
+
 - title: "Seeing Through the Noise: Improving Infrared Small Target Detection and Segmentation from Noise Suppression Perspective"
   authors: Maoxun Yuan, Duanni Meng, Ziteng Xi, Tianyi Zhao, Shiji Zhao, Yimian Dai, Xingxing Wei*
   publication: IEEE Conference on Computer Vision and Pattern Recognition‌ (CVPR2026)
