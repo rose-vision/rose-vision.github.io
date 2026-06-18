@@ -18,6 +18,16 @@
   publication: International Journal of Computer Vision (IJCV)
   ccf_rank: A
 
+- title: "RGBT-GroundBench: Visual Grounding Beyond RGB in Complex Real-World Scenarios"
+  authors: Tianyi Zhao, Jiawen Xi, Linhui Xiao, Junnan Li, Xue Yang, Maoxun Yuan, Xingxing Wei*
+  publication: European Conference on Computer Vision (ECCV2026)
+  ccf_rank: B
+
+- title: "The Path to Reconciling Quality and Safety Alignment in Text-to-Image Generation"
+  authors: Shouwei Ruan, Zhenyu Wu, Yao Huang, Ruochen Zhang, Yitong Sun, Caixin Kang, Shiji Zhao, Weijun Qin, Jingzhi Li, Xingxing Wei*
+  publication: European Conference on Computer Vision (ECCV2026)
+  ccf_rank: B
+
 - title: "Towards Seed-Robust Safety Alignment in Text-to-Image Models"
   authors: Zhenyu Wu, Yao Huang, Shouwei Ruan, Xingxing Wei*
   publication: IEEE International Conference on Machine Learning (ICML2026)
