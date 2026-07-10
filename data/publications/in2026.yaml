@@ -23,6 +23,16 @@
   publication: International Journal of Computer Vision (IJCV)
   ccf_rank: A
 
+- title: "ThinkingGuard: Decoding Implicit Hazards via Step-by-Step Risk Attribution in Multimodal Large Language Models"
+  authors: Ruochen Zhang, Yao Huang, Yitong Sun, Jiahe Xie, Jin Yan, Jifan Ma, Yuanfang Guo, Xingxing Wei*
+  publication: ACM International Conference on Multimedia (ACMMM2026)
+  ccf_rank: A
+
+- title: "Beyond Static Cues: Unified Dynamic Detection of MLLM Backdoors via Dual-Flow Trajectory Analysis"
+  authors: Yinzhen Huang, Jiahe Xie, Yitong Sun, Ruochen Zhang, Xingxing Wei*
+  publication: ACM International Conference on Multimedia (ACMMM2026)
+  ccf_rank: A
+
 - title: "RGBT-GroundBench: Visual Grounding Beyond RGB in Complex Real-World Scenarios"
   authors: Tianyi Zhao, Jiawen Xi, Linhui Xiao, Junnan Li, Xue Yang, Maoxun Yuan, Xingxing Wei*
   publication: European Conference on Computer Vision (ECCV2026)
