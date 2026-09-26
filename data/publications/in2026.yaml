@@ -23,6 +23,11 @@
   publication: International Journal of Computer Vision (IJCV)
   ccf_rank: A
 
+- title: "AlloSpatial: Agentic Harness Framework for Spatial Reasoning in Foundation Models"
+  authors: Shouwei Ruan, Bin Wang, Zhenyu Wu, Qihui Zhu, Yuxiang Zhang, Jingzhi Li, Yubin Wang, Xingxing Wei*
+  publication: The Annual Conference on Neural Information Processing Systems (NeurIPS2026)
+  ccf_rank: A
+
 - title: "ThinkingGuard: Decoding Implicit Hazards via Step-by-Step Risk Attribution in Multimodal Large Language Models"
   authors: Ruochen Zhang, Yao Huang, Yitong Sun, Jiahe Xie, Jin Yan, Jifan Ma, Yuanfang Guo, Xingxing Wei*
   publication: ACM International Conference on Multimedia (ACMMM2026)
