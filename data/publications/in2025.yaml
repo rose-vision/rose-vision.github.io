@@ -65,6 +65,7 @@
   ccf_rank: B
 
 - title: "Removal then Selection: A Coarse-to-Fine Fusion Perspective for RGB-Infrared Object Detection"
+  highlight: ESI Hot Papers
   authors: Tianyi Zhao, Maoxun Yuan, Feng Jiang, Nan Wang, Xingxing Wei*
   publication: IEEE Transactions on Intelligent Transportation Systems (TITS)
   ccf_rank: B  
